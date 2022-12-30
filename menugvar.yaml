@@ -2742,11 +2742,10 @@
         "110 gp - Cask of Rum (25 Bottles)",
         "  5 gp - Beer Keg (50 Pints)"
         ],
-      "Food": [
+      "Meals": [
         "  5 sp - Stockpot Stew",
         "  1 gp - "Sailor's Steak with Potatoes",
         "  1 gp - Fish Soup with Bread",
-        "  8 sp - Roast Goat & Cheese",
         "  2 gp - Roast Mutton & Vegetables"
         ],
       "Extras": [
@@ -3177,31 +3176,31 @@
   {"Tier": 
     {"0": 
       {"Fruit": [
-        " 1 gp - Berries, common (blueberries, chokeberries, cloudberries, elderberries, gooseberries, grapes, mulberries, raspberries, strawberries)",
-        " 3 gp - Berries, premium (blackberries*, cranberries*, huckleberries*, salmonberries*)",
-        " 1 gp - Fruit, common (apples, apricots, cherries, peaches, pears, plums)",
-        " 3 gp - Fruit, premium (dates*, figs*, melon*, orange*, pineapple*, pomegranate*)"
+        " 1 gp - Berries, common (blackberries, blueberries, cranberries, elderberries, gooseberries, huckleberries, grapes, salmonberries)",
+        " 3 gp - Berries, premium (chokeberries*, cloudberries*, mulberries*, raspberries*, strawberries*)",
+        " 1 gp - Fruit, common (dates, figs, melon, orange, peaches, pineapple)",
+        " 3 gp - Fruit, premium (apples*, apricots*, cherries*, pears*, plums*, pomegranate*)"
         ],
       "Vegetables": [
         " 3 sp - Grains, whole or ground (amaranth, barley, oats, quinoa, rice, rye, wheat)",
-        " 5 sp - Vegetables, common (beets, bell peppers, broccoli, brussels sprouts, carrots, cucumber, corn, eggplant, hops, leafy greens, legumes, onions, peas, potatoes, pumpkin, radish, squash, turnip, zucchini)",
+        " 5 sp - Vegetables, common ((beets, bell peppers, broccoli, brussels sprouts, carrots, corn, cucumber, eggplant, hops, leafy greens, legumes, onions, peas, potatoes, radish, seaweed, squash, pumpkin, turnip, zucchini)",
         " 1 gp - Vegetables, premium (asparagus, flowers, garlic, ginger, hot peppers, tobacco, tomato)"
         ],
       "Protein": [
         " 3 sp - Egg, dozen",
-        " 3 sp - Fish, common (brown trout, common carp, largemouth bass)",
-        " 1 gp - Fish, delicacy (black sea bass*, cod*, dogfish*, eel*, flounder*, salmon, shark*, snapper bluefish*, sturgeon*, squid*, tautog*)",
-        " 5 sp - Fish, premium (bluefin tuna*, halibut*, haddock*, rainbow trout, smallmouth bass, striped bass*)",
+        " 3 sp - Fish, common (bluefin tuna, brown trout, common carp, halibut, haddock, largemouth bass, striped bass)",
+        " 1 gp - Fish, delicacy black sea bass, salmon, snapper bluefish, sturgeon, tautog)",
+        " 5 sp - Fish, premium (cod, dogfish, eel, flounder, great white shark, rainbow trout, salmon, smallmouth bass, squid)",
         "10 gp - Fish Eggs",
-        " 3 sp - Meat, common (beef, boar, chicken, elk, goat, pork, venison)",
-        " 1 gp - Meat, delicacy (duck, pheasant, rabbit, turkey)",
-        " 5 sp - Meat, premium (bear, lamb)",
+        " 3 sp - Meat, common (beef, boar, chicken, goat, pork, venison)",
+        " 1 gp - Meat, delicacy (duck, pheasant*, rabbit, snipe, turkey*)",
+        " 5 sp - Meat, premium (bear, elk*, lamb)",
         " 1 gp - Mushrooms, common (beefsteak polypore, chicken of the woods, dryad's mantle, oyster mushrooms, portabella, turkey-tail, white mushroom)",
         " 5 gp - Mushrooms, delicacy (chanterelle, lion's mane, morchella, shitake, truffle)",
-        "15 sp - Nuts, common (black walnuts, chestnuts, hazelnuts, pine nuts, walnut)",
-        " 3 gp - Nuts, premium (almonds*, cashews*, coconuts*, pecans*, pistachios*)",
-        " 5 gp - Shellfish, premium (crab*, lobster*, prawns*, shrimp*)",
-        "10 gp - Shellfish, delicacy (clams*, mussels*, oysters*, scallops*, sea snails*)"
+        "15 sp - Nuts, common (almonds, cashews, chestnuts, coconuts, hazelnuts, pecans)",
+        " 3 gp - Nuts, premium (black walnuts*, pine nuts*, pistachios*, walnuts*)",
+        " 5 gp - Shellfish, premium (crab, lobster, prawns, shrimp)",
+        "10 gp - Shellfish, delicacy (clams, mussels, oysters, scallops, sea snails)"
         ],
       "Processed Foods": [
         " 5 sp - Bread Loaf, Artisan",
@@ -3350,17 +3349,17 @@
         ],
       "Ales and Beers": [
         "  1 sp - per pint of Pale Beer",
-        " 15 cp - per Pint of Light Ale, Bitter Ale",
+        " 15 cp - per Pint of Bitter Ale",
         "  3 sp - per Pint of Dark Ale, Stout",
         " 10 sp - per Jug (10 pints) of Pale Beer",
-        " 15 sp - per Jug (10 pints) of Light Ale, Bitter Ale",
+        " 15 sp - per Jug (10 pints) of Bitter Ale",
         " 30 sp - per Jug (10 pints) of Dark Ale, Stout",
         " 50 sp - per Keg (50 pints) of Pale Beer",
-        " 75 sp - per Keg (50 pints) of Light Ale, Bitter Ale",
+        " 75 sp - per Keg (50 pints) of Bitter Ale",
         " 15 gp - per Keg (50 pints) of Dark Ale, Stout"
         ],
       "Spirits": [
-        "  3 sp - per Glass of Blended Brandy, Whiskey, or Rum"
+        "  3 sp - per Glass of Blended Whiskey or Rum"
         "  5 sp - per Glass of Brandy, Whiskey, or Rum",
         "  1 gp - per Glass of Single Malt Scotch, or Fine Brandy",
         "  2 gp - per Glass of our Selection of Fine Liquors",
@@ -3411,7 +3410,7 @@
         "  1 gp - Fresh Seasonal Vegetables (Steamed or Roasted)",
         "  1 gp - Potatoes (Roasted, Boiled, or Fried Wedges)",
         "  1 gp - Seasoned Beans (Mild or Spicy)",
-        "  1 gp - Fresh Mushrooms",
+        "  1 gp - Mushrooms",
         "  1 gp - Garden Salad",
         "  1 gp - Rice or Pasta"
         ],
@@ -3510,8 +3509,8 @@
         "*Wheat, Rye, Sourdough, Ginger, Walnut*",
         "*Served with fresh salad*",
         "**Choice of Meat**", 
-        " 1 gp - Beef, Chicken, Ham",
-        " 2 gp - Rabbit, Veal, Lamb",
+        " 1 gp - Beef, Chicken, Tuna",
+        " 2 gp - Rabbit, Grilled Fish Filet, Lamb",
         "**Choice of cheese**",
         "*Cheddar, Swiss, Blue*"
         ],
