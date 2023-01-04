@@ -1,4 +1,3 @@
-#Lower District
 {"735148719065923655": 
   {"Tier": 
     {"1": 
@@ -8,7 +7,7 @@
         "  50 gp - Potion of Healing",
         " 250 gp - Potion of Greater Healing",
         " 750 gp - Potion of Superior Healing",
-        "1250 gp - Potion of Supreme Healing",
+        "1250 gp - Potion of Supreme Healing"
         ],
       "Potions, Utility": [
         "  85 gp - Bottled Breath",
@@ -26,7 +25,7 @@
         " 625 gp - Potion of Heroism",
         " 250 gp - Potion of Resistance",
         "  50 gp - Potion of Watchful Rest",
-        "  85 gp - Potion of Water Breathing",
+        "  85 gp - Potion of Water Breathing"
         ],
       "Consumables": [
         " 275 gp - Dust of Corrosion",
@@ -38,18 +37,18 @@
         "  25 gp - Mystery Key",
         "  25 gp - Paper Bird",
         " 100 gp - Pot of Awakening",
-        "  25 gp - Pressure Capsule",
+        "  25 gp - Pressure Capsule"
         ],
       "Weapons": [
         "  85 gp - Moon-touched Weapon",
         "  60 gp - Silvered Weapon",
-        "  35 gp - Veteran's Cane",
+        "  35 gp - Veteran's Cane"
         ],
       "Armor": [
         "  60 gp - Cast-off Armor",
         " 600 gp - Mariner's Armor",
         " 800 gp - Mithral Armor",
-        "  40 gp - Smoldering Armor",
+        "  40 gp - Smoldering Armor"
         ],
       "Wands/Staves": [
         "  50 gp - Staff of Adornment",
@@ -58,7 +57,7 @@
         "  60 gp - Wand of Conducting",
         "  60 gp - Wand of Pyrotechnics",
         "  30 gp - Wand of Scowls",
-        "  30 gp - Wand of Smiles",
+        "  30 gp - Wand of Smiles"
         ],
       "Accessories": [
         "  45 gp - Boots of False Tracks",
@@ -73,7 +72,7 @@
         "  60 gp - Hat of Vermin",
         "  35 gp - Hat of Wizardry",
         " 625 gp - Helm of Comprehending Languages",
-        "  65 gp - Shiftweave",
+        "  65 gp - Shiftweave"
         ],
       "Odds and Ends": [
         " 100 gp - Bottle of Endless Coffee",
@@ -108,7 +107,7 @@
         "  50 gp - Strixhaven Pennant",
         "  10 gp - Talking Doll",
         "  40 gp - Tankard of Plenty",
-        "  20 gp - Tankard of Sobriety",
+        "  20 gp - Tankard of Sobriety"
         ]
       }
     }
@@ -536,8 +535,8 @@
         " 2 gp - per pint of Lime Marmalade"
         ],
       "Loose, Dry Goods": [
-        " 1 gp - Coffee, per lb"
-        " 3 gp - Tea, per lb"
+        " 1 gp - Coffee, per lb",
+        " 3 gp - Tea, per lb",
         "10 gp - Chocolate powder, per oz"
         ]
       }
@@ -639,10 +638,10 @@
       {"Drinks": [
         " 1 sp - Ale, pint",
         " 5 sp - Honey Drip Mead",
-        "**Liquor** *(You get what you get)*"
+        "**Liquor** *(You get what you get)*",
         " 3 sp - Shot",
         "48 sp - Bottle (16 Shots)",
-        " free - water(?)",
+        " free - water(?)"
         ],
       "Food": [
         " 3 sp - Stockpot Stew/Soup",
@@ -658,7 +657,7 @@
         ]
       }
     }
-  }
+  },
 "736227269093228604": 
   {"Tier": 
     {"0": 
@@ -668,13 +667,13 @@
         "  80 gp - Masquerade Tattoo",
         "  50 gp - Spellwrought Tattoo, Cantrip*",
         " 100 gp - Spellwrought Tattoo, 1st level*",
-        "__Uncommon__"
-        " 250 gp - Barrier Tattoo, Uncommon
-        " 700 gp - Coiling Grasp Tattoo
+        "__Uncommon__",
+        " 250 gp - Barrier Tattoo, Uncommon",
+        " 700 gp - Coiling Grasp Tattoo",
         "__Rare__",
-        "1000 gp - Barrier Tattoo, Rare"
+        "1000 gp - Barrier Tattoo, Rare",
         "__Very Rare__",
-        "2000 gp - Barrier Tattoo, Very Rare"
+        "2000 gp - Barrier Tattoo, Very Rare",
         "*You must pay for spell components as well if the spell requires them.**"
         ],
       "Tattoo Removal": [
@@ -766,7 +765,7 @@
       {"Speshuls": [
         " 1 sp - Some Kind of Pie (slice)",
         " 6 sp - Glass of Old Jolly's Special Reserve Rum",
-        " 9 gp - Bottle of Old Jolly's Special Reserve Rum",
+        " 9 gp - Bottle of Old Jolly's Special Reserve Rum"
         ],
       "Drinks": [
         " 5 sp - Whiskey - Sipping",
@@ -858,11 +857,11 @@
         " 275 gp - Pixie Dust"
         ],
       "Ingested Poisons": [
-        " 150 gp - Assassin's Blood"
-        "1500 gp - Midnight Tears*"
-        " 250 gp - Pale Tincture"
-        " 125 gp - Potion of Poison"
-        " 600 gp - Torpor"
+        " 150 gp - Assassin's Blood",
+        "1500 gp - Midnight Tears*",
+        " 250 gp - Pale Tincture",
+        " 125 gp - Potion of Poison",
+        " 600 gp - Torpor",
         " 150 gp - Truth Serum"
         ],
       "Inhaled Poisons": [
@@ -956,7 +955,7 @@
         " 15 gp - Training kit (beast)",
         " 17 gp - Training kit (bird)",
         "100 gp - Training sleeve",
-        "  1 gp - Little Critter Milk (per day)",
+        "  1 gp - Little Critter Milk (per day)"
         ]
       }
     }
@@ -1193,7 +1192,7 @@
         "  4 gp - Mountain River Salmon Platter served on Bed of Fresh Salad",
         "  2 gp - Sausage & Peppers with Pasta & Sauce",
         "  2 gp - Vegetable or Chicken Stir Fry with Rice or Noodles (Spicy Garlic or Sweet & Sour)",
-        "  2 gp - Individual Pie made with Pork, Steak & Kidney, Vegetable, or Chicken and served with choice of side",
+        "  2 gp - Individual Pie made with Pork, Steak & Kidney, Vegetable, or Chicken and served with choice of side"
         ],
       "Sides": [
         "  1 gp - Fresh Seasonal Vegetables (Steamed or Roasted)",
@@ -1244,7 +1243,7 @@
         " 5 sp - Clothes, Common",
         " 5 gp - Clothes, Costume",
         "15 gp - Clothes, Fine",
-        " 2 gp - Clothes, Traveler's",
+        " 2 gp - Clothes, Traveler's"
         ],
       "Tops": [
         " 1 cp - Apron",
@@ -1382,7 +1381,7 @@
         " 1500 gp - 1 Room Expansion"
         ],
       "Gardens and Greenhouses": [
-        "  500 gp - Garden, small (1)"
+        "  500 gp - Garden, small (1)",
         " 1000 gp - Garden, medium (2)",
         " 1500 gp - Garden, large (3)",
         " 1000 gp - Greenhouse, small (1)",
@@ -1519,11 +1518,11 @@
         ],
       "Weapons": [
         "1350 gp - Dagger of Venom",
-        " 850 gp - Dragon's Wrath, Slumbering (1)".
+        " 850 gp - Dragon's Wrath, Slumbering (1)",
         "1000 gp - Insignia of Claws",
         "1050 gp - Javelin of Lightning",
         "1250 gp - Lightbringer (2)",
-        "1250 gp - Shatterspike (2)".
+        "1250 gp - Shatterspike (2)",
         " 650 gp - Sword of Life Stealing (1)",
         " 600 gp - Sword of Wounding (1)",
         " 600 gp - Trident of Fish Command",
@@ -1531,7 +1530,7 @@
         "  50 gp - Walloping Ammunition",
         "1000 gp - Weapon +1",
         " 875 gp - Weapon of Warning",
-        "**Can be put on all weapon types. (1)**"
+        "**Can be put on all weapon types. (1)**",
         "**Can be put onto all melee weapon types. (2)**"
         ],
       "Armor": [
@@ -1627,13 +1626,13 @@
         ]
       }
     }
-  }
+  },
 "784573032860876800": 
   {"Tier": 
     {"3": 
       {"Consumables": [
         "  250 gp - Bead of Force",
-        "  625 gp - Chromatic Rose",
+        "  625 gp - Chromatic Rose"
         ],
       "Weapons": [
         " 3000 gp - Acheron Blade (2)",
@@ -1688,7 +1687,7 @@
         " 4800 gp - Rhythm Maker's Drum +2 (1)",
         " 4800 gp - Rod of the Pact Keeper +2 (1)",
         " 4000 gp - Wand of the War Mage +2 (1)",
-        "**Requires +1 version. (1)**",
+        "**Requires +1 version. (1)**"
         ],
       "Wands/Staves": [
         " 3000 gp - Rod of Rulership",
@@ -1837,7 +1836,7 @@
         "Chocolate",
         "Princess",
         "Strawberry-Meringue",
-       " __Pie Options__".
+       " __Pie Options__",
         "Apple",
         "Blueberry",
         "Rhubarb Cobbler"
@@ -1863,7 +1862,7 @@
         "Chicken",
         "Fried Egg",
         "Ham",
-        "Rabbit,
+        "Rabbit",
         "__Vegetables__",
         "Lettuce",
         "Mushrooms (garlic fried)",
@@ -1920,7 +1919,7 @@
         "   1 gp - Wig"
         ],
       "Jewelry": [
-        "*Available for animal friends of all sizes upon request!*"
+        "*Available for animal friends of all sizes upon request!*",
         "__Amulets__",
         "  15 sp - Wood, Iron, Pewter, or Steel",
         "  25 gp - Silver",
@@ -1955,14 +1954,14 @@
         "   1 gp - Wood, Iron, Pewter, or Steel",
         "  15 gp - Silver",
         "  25 gp - Gold",
-        "  50 gp - Platinum"
+        "  50 gp - Platinum",
         "**Pet clothing and accessory prices multiplied by 4 per size category larger than small.**"
         ],
       "Services": [
-        "  10 gp - Embroidery
-        "  10 gp - Engraving
-        "  10 gp - Etching
-        "   5 gp - Gift Wrapping
+        "  10 gp - Embroidery",
+        "  10 gp - Engraving",
+        "  10 gp - Etching",
+        "   5 gp - Gift Wrapping"
         ],
       "Potions": [
         "  50 gp - Antitoxin (vial)",
@@ -2270,7 +2269,7 @@
         "5 sp - Boiled Hard Sweets",
         "5 sp - Fruit Tart",
         "5 sp - Honeycomb Brittle",
-        "5 sp - Kitty Claw (a bear claw in the shape of a kitty paw)",
+        "5 sp - Kitty Claw (a bear claw in the shape of a kitty paw)"
         ],
       "Delicious Drinks": [
         "5 sp - Hot Cocoa",
@@ -2289,7 +2288,7 @@
         "5 gp - Feywine, glass",
         "1 gp - Martini (dry or sweet)",
         "1 gp - Plum Wine, glass",
-        "5 gp - Sake, bottle (warm or cold)"
+        "5 gp - Sake, bottle (warm or cold)",
         "*Fruit cocktails can be made with all in-house juices!**"
         ],
       "Fantastic Foods": [
@@ -2334,7 +2333,7 @@
         "Raspberry",
         "Strawberry",
         "Tomato",
-        "__K&K Caféy offers the following flavors for tea:__"
+        "__K&K Caféy offers the following flavors for tea:__",
         "Black",
         "Chai",
         "Chamomille",
@@ -2369,7 +2368,7 @@
         "5 gp Yearly Ticket"
         ],
       "Popcorn": [
-        " Popcorns:
+        " Popcorns:",
         "2 cp - Small",
         "3 cp - Medium",
         "5 cp - Large",
@@ -2439,18 +2438,18 @@
         "  9 gp - bag of compost"
         ],
       "Pots and Planters": [
-        "  1 sp - glass vase, small
-        "  5 sp - glass vase, medium
-        "  5 cp - plain pot, small
-        "  5 sp - plain pot, medium
-        "  2 gp - plain pot, large
-        "  5 sp - decorated pot, small
-        "  1 gp - decorated pot medium 
-        " 10 gp - decorated pot, large
-        " 28 sp - hanging pot, plain
-        "  5 gp - hanging pot, decorated 
-        " 15 gp - wooden planter, medium
-        "205 sp - wooden planter, large
+        "  1 sp - glass vase, small",
+        "  5 sp - glass vase, medium",
+        "  5 cp - plain pot, small",
+        "  5 sp - plain pot, medium",
+        "  2 gp - plain pot, large",
+        "  5 sp - decorated pot, small",
+        "  1 gp - decorated pot medium",
+        " 10 gp - decorated pot, large",
+        " 28 sp - hanging pot, plain",
+        "  5 gp - hanging pot, decorated", 
+        " 15 gp - wooden planter, medium",
+        "205 sp - wooden planter, large"
         ],
       "Other bits and bobs!": [
         "  5 sp - bird feeder",
@@ -2499,10 +2498,10 @@
   {"Tier": 
     {"0": 
       {"Forged Cooking Utensils": [
-        " 10 gp - Iron Cookware
-        " 15 gp - Stainless Steel Cookware
-        " 30 gp - Blue Steel Cookware
-        "50+ gp - Adamantine Cookware
+        " 10 gp - Iron Cookware",
+        " 15 gp - Stainless Steel Cookware",
+        " 30 gp - Blue Steel Cookware",
+        "50+ gp - Adamantine Cookware"
         ],
       "Wood-Carved Sculpture/Furniture": [
         " 10 gp - 12-inch statue",
@@ -2551,11 +2550,11 @@
         "13 gp - per Lesson for 24 Lessons on the Instrument of Illusions"
         ],
       "Instrument Rentals": [
-        "__Regular Instruments__"
+        "__Regular Instruments__",
         " 2 sp - per hour",
         " 3 gp - per day",
-        "12 gp - per day"
-        "__Instrument of Illusions__"
+        "12 gp - per day",
+        "__Instrument of Illusions__",
         " 2 gp - per hour",
         " 7 gp - per day",
         "17 gp - per day"
@@ -2599,7 +2598,7 @@
         " 1gp - Winesap (for cider)",
         " 1gp - Honeycrisp (good raw)",
         " 3gp - Aged Black (for baking)",
-        "__Berries__"
+        "__Berries__",
         " 1gp - Strawberries",
         " 1gp - Raspberries",
         " 3gp - Blackberries"
@@ -2661,7 +2660,7 @@
         "   50 gp - Padded Seating",
         "  150 gp - Sun Shade Sails",
         "   10 gp - Hammock",
-        " 1000 gp - "Floated" furniture (always stays level!)",
+        " 1000 gp - Floated furniture (always stays level!)",
         " 1000 gp - Catamaran design (new boats only)",
         "  250 gp - Life Boat (8 ft, 6 passenger, max 1 on sm/med boats)"
         ],
@@ -2742,10 +2741,11 @@
         "110 gp - Cask of Rum (25 Bottles)",
         "  5 gp - Beer Keg (50 Pints)"
         ],
-      "Meals": [
+      "Food": [
         "  5 sp - Stockpot Stew",
-        "  1 gp - "Sailor's Steak with Potatoes",
+        "  1 gp - Sailor's Steak with Potatoes",
         "  1 gp - Fish Soup with Bread",
+        "  8 sp - Roast Goat & Cheese",
         "  2 gp - Roast Mutton & Vegetables"
         ],
       "Extras": [
@@ -2773,12 +2773,12 @@
         " 4500 gp - Cottage (3 rooms and Perfect for a small plot of land!)",
         " 6500 gp - Colonial (5 rooms and a Medium plot is recommended for expansion!)",
         "15000 gp - Mansion (9 rooms and a Large plot is preferred!)",
-        " 1500 gp - 1 Room Expansion"
+        " 1500 gp - 1 Room Expansion",
         " 1000 gp - Docks (must be next to water)",
         "  500 gp - Rent Dock Space"
         ],
       "Gardens and Greenhouses": [
-        "  500 gp - Garden, small (1)"
+        "  500 gp - Garden, small (1)",
         " 1000 gp - Garden, medium (2)",
         " 1500 gp - Garden, large (3)",
         " 1000 gp - Greenhouse, small (1)",
@@ -3176,31 +3176,31 @@
   {"Tier": 
     {"0": 
       {"Fruit": [
-        " 1 gp - Berries, common (blackberries, blueberries, cranberries, elderberries, gooseberries, huckleberries, grapes, salmonberries)",
-        " 3 gp - Berries, premium (chokeberries*, cloudberries*, mulberries*, raspberries*, strawberries*)",
-        " 1 gp - Fruit, common (dates, figs, melon, orange, peaches, pineapple)",
-        " 3 gp - Fruit, premium (apples*, apricots*, cherries*, pears*, plums*, pomegranate*)"
+        " 1 gp - Berries, common (blueberries, chokeberries, cloudberries, elderberries, gooseberries, grapes, mulberries, raspberries, strawberries)",
+        " 3 gp - Berries, premium (blackberries*, cranberries*, huckleberries*, salmonberries*)",
+        " 1 gp - Fruit, common (apples, apricots, cherries, peaches, pears, plums)",
+        " 3 gp - Fruit, premium (dates*, figs*, melon*, orange*, pineapple*, pomegranate*)"
         ],
       "Vegetables": [
         " 3 sp - Grains, whole or ground (amaranth, barley, oats, quinoa, rice, rye, wheat)",
-        " 5 sp - Vegetables, common ((beets, bell peppers, broccoli, brussels sprouts, carrots, corn, cucumber, eggplant, hops, leafy greens, legumes, onions, peas, potatoes, radish, seaweed, squash, pumpkin, turnip, zucchini)",
+        " 5 sp - Vegetables, common (beets, bell peppers, broccoli, brussels sprouts, carrots, cucumber, corn, eggplant, hops, leafy greens, legumes, onions, peas, potatoes, pumpkin, radish, squash, turnip, zucchini)",
         " 1 gp - Vegetables, premium (asparagus, flowers, garlic, ginger, hot peppers, tobacco, tomato)"
         ],
       "Protein": [
         " 3 sp - Egg, dozen",
-        " 3 sp - Fish, common (bluefin tuna, brown trout, common carp, halibut, haddock, largemouth bass, striped bass)",
-        " 1 gp - Fish, delicacy black sea bass, salmon, snapper bluefish, sturgeon, tautog)",
-        " 5 sp - Fish, premium (cod, dogfish, eel, flounder, great white shark, rainbow trout, salmon, smallmouth bass, squid)",
+        " 3 sp - Fish, common (brown trout, common carp, largemouth bass)",
+        " 1 gp - Fish, delicacy (black sea bass*, cod*, dogfish*, eel*, flounder*, salmon, shark*, snapper bluefish*, sturgeon*, squid*, tautog*)",
+        " 5 sp - Fish, premium (bluefin tuna*, halibut*, haddock*, rainbow trout, smallmouth bass, striped bass*)",
         "10 gp - Fish Eggs",
-        " 3 sp - Meat, common (beef, boar, chicken, goat, pork, venison)",
-        " 1 gp - Meat, delicacy (duck, pheasant*, rabbit, snipe, turkey*)",
-        " 5 sp - Meat, premium (bear, elk*, lamb)",
+        " 3 sp - Meat, common (beef, boar, chicken, elk, goat, pork, venison)",
+        " 1 gp - Meat, delicacy (duck, pheasant, rabbit, turkey)",
+        " 5 sp - Meat, premium (bear, lamb)",
         " 1 gp - Mushrooms, common (beefsteak polypore, chicken of the woods, dryad's mantle, oyster mushrooms, portabella, turkey-tail, white mushroom)",
         " 5 gp - Mushrooms, delicacy (chanterelle, lion's mane, morchella, shitake, truffle)",
-        "15 sp - Nuts, common (almonds, cashews, chestnuts, coconuts, hazelnuts, pecans)",
-        " 3 gp - Nuts, premium (black walnuts*, pine nuts*, pistachios*, walnuts*)",
-        " 5 gp - Shellfish, premium (crab, lobster, prawns, shrimp)",
-        "10 gp - Shellfish, delicacy (clams, mussels, oysters, scallops, sea snails)"
+        "15 sp - Nuts, common (black walnuts, chestnuts, hazelnuts, pine nuts, walnut)",
+        " 3 gp - Nuts, premium (almonds*, cashews*, coconuts*, pecans*, pistachios*)",
+        " 5 gp - Shellfish, premium (crab*, lobster*, prawns*, shrimp*)",
+        "10 gp - Shellfish, delicacy (clams*, mussels*, oysters*, scallops*, sea snails*)"
         ],
       "Processed Foods": [
         " 5 sp - Bread Loaf, Artisan",
@@ -3247,13 +3247,13 @@
         "  80 gp - Masquerade Tattoo",
         "  50 gp - Spellwrought Tattoo, Cantrip*",
         " 100 gp - Spellwrought Tattoo, 1st level*",
-        "__Uncommon__"
-        " 250 gp - Barrier Tattoo, Uncommon
-        " 700 gp - Coiling Grasp Tattoo
+        "__Uncommon__",
+        " 250 gp - Barrier Tattoo, Uncommon",
+        " 700 gp - Coiling Grasp Tattoo",
         "__Rare__",
-        "1000 gp - Barrier Tattoo, Rare"
+        "1000 gp - Barrier Tattoo, Rare",
         "__Very Rare__",
-        "2000 gp - Barrier Tattoo, Very Rare"
+        "2000 gp - Barrier Tattoo, Very Rare",
         "*You must pay for spell components as well if the spell requires them.**"
         ],
       "Tattoo Removal": [
@@ -3349,31 +3349,31 @@
         ],
       "Ales and Beers": [
         "  1 sp - per pint of Pale Beer",
-        " 15 cp - per Pint of Bitter Ale",
+        " 15 cp - per Pint of Light Ale, Bitter Ale",
         "  3 sp - per Pint of Dark Ale, Stout",
         " 10 sp - per Jug (10 pints) of Pale Beer",
-        " 15 sp - per Jug (10 pints) of Bitter Ale",
+        " 15 sp - per Jug (10 pints) of Light Ale, Bitter Ale",
         " 30 sp - per Jug (10 pints) of Dark Ale, Stout",
         " 50 sp - per Keg (50 pints) of Pale Beer",
-        " 75 sp - per Keg (50 pints) of Bitter Ale",
+        " 75 sp - per Keg (50 pints) of Light Ale, Bitter Ale",
         " 15 gp - per Keg (50 pints) of Dark Ale, Stout"
         ],
       "Spirits": [
-        "  3 sp - per Glass of Blended Whiskey or Rum"
+        "  3 sp - per Glass of Blended Brandy, Whiskey, or Rum",
         "  5 sp - per Glass of Brandy, Whiskey, or Rum",
         "  1 gp - per Glass of Single Malt Scotch, or Fine Brandy",
         "  2 gp - per Glass of our Selection of Fine Liquors",
-        " 45 sp - per Bottle (16 Shots) of Blended Whiskey, Rum"
+        " 45 sp - per Bottle (16 Shots) of Blended Whiskey, Rum",
         " 75 sp - per Bottle (16 Shots) of Brandy, Whiskey, or Rum",
         " 15 gp - per Bottle (16 Shots) of Single Malt Scotch, or Fine Brandy",
         " 30 gp - per Bottle (16 Shots) of our Selection of Fine Liquors",
-        "110 gp - per Cask (25 Bottles) of Blended Whiskey, Rum"
+        "110 gp - per Cask (25 Bottles) of Blended Whiskey, Rum",
         "185 gp - per Cask (25 Bottles) of Brandy, Whiskey, or Rum",
         "350 gp - per Cask (25 Bottles) of Single Malt Scotch, or Fine Brandy",
         "750 gp - per Cask (25 Bottles) of our Selection of Fine Liquors"
         ],
       "Wines": [
-        "  5 sp - per Glass of Red or White House wine, 
+        "  5 sp - per Glass of Red or White House wine", 
         "  8 sp - per glass of Imported Wine or Cider",
         "  1 gp - per Glass of Sparkling Wines, Mead, Port, or Sherry",
         " 25 sp - per Bottle (5 Glasses) of Red or White House wine",
@@ -3405,12 +3405,12 @@
         "  2 gp - Seafood Gumbo",
         "  4 gp - Mussels in Wine Sauce",
         "  3 gp - Crab Cakes"
-        ]
+        ],
       "Sides": [
         "  1 gp - Fresh Seasonal Vegetables (Steamed or Roasted)",
         "  1 gp - Potatoes (Roasted, Boiled, or Fried Wedges)",
         "  1 gp - Seasoned Beans (Mild or Spicy)",
-        "  1 gp - Mushrooms",
+        "  1 gp - Fresh Mushrooms",
         "  1 gp - Garden Salad",
         "  1 gp - Rice or Pasta"
         ],
@@ -3509,8 +3509,8 @@
         "*Wheat, Rye, Sourdough, Ginger, Walnut*",
         "*Served with fresh salad*",
         "**Choice of Meat**", 
-        " 1 gp - Beef, Chicken, Tuna",
-        " 2 gp - Rabbit, Grilled Fish Filet, Lamb",
+        " 1 gp - Beef, Chicken, Ham",
+        " 2 gp - Rabbit, Veal, Lamb",
         "**Choice of cheese**",
         "*Cheddar, Swiss, Blue*"
         ],
@@ -3556,8 +3556,8 @@
         " 2 gp - per pint of Lime Marmalade"
         ],
       "Loose, Dry Goods": [
-        " 1 gp - Coffee, per lb"
-        " 3 gp - Tea, per lb"
+        " 1 gp - Coffee, per lb",
+        " 3 gp - Tea, per lb",
         "10 gp - Chocolate powder, per oz"
         ]
       }
@@ -3858,8 +3858,8 @@
         " 20 gp - Bull",
         " 10 sp - Cow",
         "  8 gp - Donkey, Mule, or Ass",
-        " 15 gp - Ox"
-        " 75 gp - Riding Horse",
+        " 15 gp - Ox",
+        " 75 gp - Riding Horse"
         ],
       "Tack": [
         " 15 sp - Bit & Bridle",
@@ -3906,7 +3906,7 @@
       "Potions, Utility": [
         "  85 gp - Bottled Breath",
         " 250 gp - Oil of Slipperiness",
-        "  85 gp - Philter of Love"
+        "  85 gp - Philter of Love",
         " 250 gp - Potion of Advantage",
         " 175 gp - Potion of Animal Friendship",
         " 625 gp - Potion of Aqueous Form",
@@ -3931,10 +3931,10 @@
         "  45 gp - Moodmark Paint",
         "  25 gp - Mystery Key",
         "  25 gp - Paper Bird",
-        "  40 gp - Perfume of Bewitching
-        " 275 gp - Pixie Dust
+        "  40 gp - Perfume of Bewitching",
+        " 275 gp - Pixie Dust",
         " 100 gp - Pot of Awakening",
-        "  25 gp - Pressure Capsule",
+        "  25 gp - Pressure Capsule"
         ],
       "Weapons": [
         "  85 gp - Moon-touched Weapon",
@@ -4019,11 +4019,11 @@
         ],
       "Weapons": [
         "1350 gp - Dagger of Venom",
-        " 850 gp - Dragon's Wrath, Slumbering (1)".
+        " 850 gp - Dragon's Wrath, Slumbering (1)",
         "1000 gp - Insignia of Claws",
         "1050 gp - Javelin of Lightning",
         "1250 gp - Lightbringer (2)",
-        "1250 gp - Shatterspike (2)".
+        "1250 gp - Shatterspike (2)",
         " 650 gp - Sword of Life Stealing (1)",
         " 600 gp - Sword of Wounding (1)",
         " 600 gp - Trident of Fish Command",
@@ -4031,7 +4031,7 @@
         "  50 gp - Walloping Ammunition",
         "1000 gp - Weapon +1",
         " 875 gp - Weapon of Warning",
-        "**Can be put on all weapon types. (1)**"
+        "**Can be put on all weapon types. (1)**",
         "**Can be put onto all melee weapon types. (2)**"
         ],
       "Armor": [
@@ -4509,7 +4509,7 @@
       "Editing and Letter Writing Services": [
         " 5 gp - per page of Scribing",
         " 5 gp - per page of Editing",
-        "*Hourly rates can be negotiated for larger documents*"
+        "*Hourly rates can be negotiated for larger documents*",
         " 8 gp - per page of Letter Writing"
         ],
       "Translation Services": [
