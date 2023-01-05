@@ -1,0 +1,2638 @@
+{
+	"735148719065923655": {
+		"Tier": {
+			"1": {
+				"Potions, Healing": [
+					" 525 gp - Elixir of Health",
+					" 125 gp - Keoghtom's Ointment, single dose (max 5)",
+					"  50 gp - Potion of Healing",
+					" 250 gp - Potion of Greater Healing",
+					" 750 gp - Potion of Superior Healing",
+					"1250 gp - Potion of Supreme Healing"
+				],
+				"Potions, Utility": [
+					"  85 gp - Bottled Breath",
+					" 250 gp - Oil of Slipperiness",
+					" 250 gp - Potion of Advantage",
+					" 175 gp - Potion of Animal Friendship",
+					" 625 gp - Potion of Aqueous Form",
+					" 625 gp - Potion of Clairvoyance",
+					"  50 gp - Potion of Climbing",
+					"  50 gp - Potion of Comprehension",
+					" 375 gp - Potion of Diminution",
+					" 250 gp - Potion of Fire Breath",
+					" 625 gp - Potion of Gaseous Form",
+					" 250 gp - Potion of Growth",
+					" 625 gp - Potion of Heroism",
+					" 250 gp - Potion of Resistance",
+					"  50 gp - Potion of Watchful Rest",
+					"  85 gp - Potion of Water Breathing"
+				],
+				"Consumables": [
+					" 275 gp - Dust of Corrosion",
+					" 175 gp - Dust of Deliciousness",
+					" 275 gp - Dust of Disappearance",
+					" 175 gp - Dust of Dryness",
+					" 375 gp - Dust of Sneezing and Choking",
+					"  45 gp - Moodmark Paint",
+					"  25 gp - Mystery Key",
+					"  25 gp - Paper Bird",
+					" 100 gp - Pot of Awakening",
+					"  25 gp - Pressure Capsule"
+				],
+				"Weapons": [
+					"  85 gp - Moon-touched Weapon",
+					"  60 gp - Silvered Weapon",
+					"  35 gp - Veteran's Cane"
+				],
+				"Armor": [
+					"  60 gp - Cast-off Armor",
+					" 600 gp - Mariner's Armor",
+					" 800 gp - Mithral Armor",
+					"  40 gp - Smoldering Armor"
+				],
+				"Wands/Staves": [
+					"  50 gp - Staff of Adornment",
+					"  45 gp - Staff of Birdcalls",
+					"  60 gp - Staff of Flowers",
+					"  60 gp - Wand of Conducting",
+					"  60 gp - Wand of Pyrotechnics",
+					"  30 gp - Wand of Scowls",
+					"  30 gp - Wand of Smiles"
+				],
+				"Accessories": [
+					"  45 gp - Boots of False Tracks",
+					"  30 gp - Cloak of Billowing",
+					"  30 gp - Cloak of Many Fashions",
+					" 125 gp - Clockwork Amulet",
+					"  45 gp - Clothes of Mending",
+					"  35 gp - Dark Shard Amulet",
+					"  30 gp - Dread Helm",
+					"  30 gp - Glamerweave",
+					" 300 gp - Glamerweave (uncommon)",
+					"  60 gp - Hat of Vermin",
+					"  35 gp - Hat of Wizardry",
+					" 625 gp - Helm of Comprehending Languages",
+					"  65 gp - Shiftweave"
+				],
+				"Odds and Ends": [
+					" 100 gp - Bottle of Endless Coffee",
+					"  85 gp - Breathing Bubble",
+					"  45 gp - Candle of the Deep",
+					"  25 gp - Charlatan's Die",
+					"  65 gp - Chest of Preserving",
+					"  45 gp - Cleansing Stone",
+					"  45 gp - Coin of Delving",
+					" 250 gp - Cuddly Strixhaven Mascot",
+					" 600 gp - Driftglobe",
+					"  45 gp - Ear Horn of Hearing",
+					" 650 gp - Emerald Pen",
+					"  65 gp - Enduring Spellbook",
+					"  45 gp - Ersatz Eye",
+					"  45 gp - Everbright Lantern",
+					"  30 gp - Heward's Handy Spice Pouch",
+					"  85 gp - Horn of Silent Alarm",
+					"  65 gp - Instrument of Illusions",
+					"  65 gp - Instrument of Scribing",
+					"  45 gp - Lantern of Tracking",
+					"  20 gp - Lock of Trickery",
+					"  45 gp - Orb of Direction",
+					"  45 gp - Orb of Gonging",
+					"  45 gp - Orb of Time",
+					"  45 gp - Pipe of Remembrance",
+					"  45 gp - Pipe of Smoke Monsters",
+					"  45 gp - Pole of Angling",
+					"  65 gp - Pole of Collapsing",
+					"  45 gp - Rope of Mending",
+					"  40 gp - Ruby of the War Mage",
+					"  50 gp - Strixhaven Pennant",
+					"  10 gp - Talking Doll",
+					"  40 gp - Tankard of Plenty",
+					"  20 gp - Tankard of Sobriety"
+				]
+			}
+		}
+	},
+	"735146625835728908": {
+		"Tier": {
+			"0": {
+				"Adventuring Gear": [
+					" 50 gp - Antitoxin (vial)",
+					"  2 gp - Backpack",
+					"  1 gp - Ball Bearings(bag of 1,000)",
+					"  2 gp - Barrel",
+					"  4 sp - Basket",
+					"  1 gp - Bedroll",
+					"  1 gp - Bell",
+					"  5 sp - Blanket",
+					"  1 gp - Block and Tackle",
+					"  2 gp - Bottle, Glass",
+					"  5 cp - Bucket",
+					"  1 gp - Caltrops (bag of 20)",
+					"  1 cp - Candle",
+					"  5 gp - Chain (10 feet)",
+					"  5 gp - Chest",
+					" 25 gp - Component Pouch",
+					"  2 gp - Crowbar",
+					"  1 gp - Fishing Tackle",
+					"  1 gp - Fishing pole",
+					"  2 cp - Flask or Tankard",
+					"  2 gp - Grappling Hook",
+					"  5 gp - Healer's Kit",
+					" 25 gp - Hourglass",
+					"  5 gp - Holy Symbol (amulet, emblem, reliquery)",
+					" 25 gp - Holy Water (flask)",
+					"  5 gp - Hunting Trap",
+					"  2 cp - Jug or Pitcher",
+					"  1 sp - Ladder (10-foot)",
+					"  5 sp - Lamp",
+					" 10 gp - Lantern, Bullseye",
+					"  5 gp - Lantern, Hooded",
+					" 10 gp - Lock",
+					"  2 gp - Manacles",
+					"  2 sp - Mess Kit",
+					"  5 gp - Mirror, Steel",
+					"  1 sp - Oil (flask)",
+					"  5 gp - Perfume (vial)",
+					"  5 cp - Piton",
+					"  2 gp - Pot, Iron",
+					"  5 sp - Pouch",
+					"  4 gp - Ram, Portable",
+					"  1 gp - Robes",
+					"  1 gp - Rope, Hempen (50 feet)",
+					" 10 gp - Rope, Silk (50 feet)",
+					"  1 cp - Sack",
+					"  2 gp - Shovel",
+					"  5 cp - Signal Whistle",
+					"  5 gp - Signet Ring",
+					"  2 cp - Soap",
+					"  1 gp - Spikes, Iron (10)",
+					"  2 gp - Tent, two-person",
+					"  5 sp - Tinderbox",
+					"  1 cp - Torch",
+					"  1 gp - Vial",
+					"  2 sp - Waterskin"
+				],
+				"Clothing": [
+					"  5 sp - Clothes, common",
+					"  2 gp - Clothes, traveler's",
+					"  5 gp - Clothes, costume",
+					" 15 gp - Clothes, fine",
+					" 10 gp - Clothing, cold weather"
+				],
+				"Instruments": [
+					" 30 gp - Bagpipes",
+					"  6 gp - Drum",
+					" 25 gp - Dulcimer",
+					"  2 gp - Flute",
+					" 35 gp - Lute",
+					" 30 gp - Lyre",
+					"  3 gp - Horn",
+					" 12 gp - Pan flute",
+					" 30 gp - Viol"
+				],
+				"Kits and Tools": [
+					" 25 gp - Climber's Kit",
+					" 25 gp - Climber's Kit",
+					" 25 gp - Disguise Kit",
+					" 15 gp - Forgery Kit",
+					"  5 gp - Herbalism Kit",
+					"  2 sp - Mess Kit",
+					" 50 gp - Poisoner's Kit",
+					" 50 gp - Alchemist's supplies",
+					" 50 gp - Tinker's tools",
+					" 30 gp - Glassblower's tools",
+					" 25 gp - Jeweler's tools",
+					" 20 gp - Brewer's supplies",
+					" 20 gp - Smith's tools",
+					" 15 gp - Cartographer's tools",
+					" 10 gp - Mason's tools",
+					" 10 gp - Calligrapher's Supplies",
+					" 10 gp - Painter's supplies",
+					" 10 gp - Potter's tools",
+					"  8 gp - Carpenter's tools",
+					"  5 gp - Cobbler's tools",
+					"  5 gp - Leatherworker's tools",
+					"  1 gp - Cook's utensils",
+					"  1 gp - Weaver's tools",
+					"  1 gp - Woodcarver's tools"
+				],
+				"Equipment Packs": [
+					" 16 gp - Burglar's",
+					" 39 gp - Diplomat's",
+					" 12 gp - Dungeoneer's",
+					" 40 gp - Entertainer's",
+					" 10 gp - Explorer's",
+					" 19 gp - Priest's",
+					" 40 gp - Scholar's"
+				],
+				"Scribing Equipment": [
+					"  1 gp - Case, Map or Scroll",
+					"  1 cp - Chalk",
+					"  4 sp - Sealing Wax",
+					" 50 gp - Small Spellbook",
+					" **__Blank Books (100 pages)__**",
+					" 15 gp - Papyrus",
+					" 55 gp - Parchment",
+					" 25 gp - Paper",
+					"105 gp - Vellum",
+					" **__Paint Brushes__**",
+					"  1 sp - Fine",
+					"  2 sp - Medium",
+					"  5 sp - Wide",
+					" **__Writing Ink__**",
+					"  1 gp - Black (2oz)",
+					" 25 sp - Assorted colors (2oz)",
+					" **__Paint__**",
+					"  2 gp - Assorted Colors (per gallon)",
+					"  2 sp - Paint, small pot",
+					"  1 sp - Papyrus, per sheet",
+					"  5 sp - Parchment, per sheet",
+					"  2 sp - Paper, per sheet",
+					"  1 gp - Vellum, per sheet",
+					" **__Writing Implements__**",
+					"  5 cp - Quill",
+					"  3 sp - Metal, fine tip pen",
+					"  2 sp - Metal, broad tip pen",
+					"  1 sp - Wooden, fine tip pen",
+					" 15 cp - Wooden, broad tip pen"
+				],
+				"Lumber": [
+					" **__Boards__**",
+					" **8'**",
+					"  2 sp - 2x4",
+					"  3 sp - 2x6",
+					"  4 sp - 2x8",
+					"  6 sp - 2x10",
+					"  7 sp - 2x12",
+					" **10'**",
+					"  2 sp - 2x4",
+					"  4 sp - 2x6",
+					"  5 sp - 2x8",
+					"  9 sp - 2x10",
+					" 10 sp - 2x12",
+					" **12'**",
+					"  3 sp - 2x4",
+					"  5 sp - 2x6",
+					"  6 sp - 2x8",
+					"  9 sp - 2x10",
+					" 11 sp - 2x12",
+					" **14'**",
+					"  3 sp - 2x4",
+					"  6 sp - 2x6",
+					"  9 sp - 2x8",
+					" 10 sp - 2x10",
+					" 13 sp - 2x12",
+					" **16'**",
+					"  4 sp - 2x4",
+					"  6 sp - 2x6",
+					"  9 sp - 2x8",
+					" 12 sp - 2x10",
+					" 15 sp - 2x12",
+					" **18'**",
+					"  5 sp - 2x4",
+					"  7 sp - 2x6",
+					" 10 sp - 2x8",
+					" 14 sp - 2x10",
+					" 17 sp - 2x12",
+					" **20'**",
+					"  5 sp - 2x4",
+					"  8 sp - 2x6",
+					" 11 sp - 2x8",
+					" 15 sp - 2x10",
+					" 19 sp - 2x12",
+					"**__Panels__**",
+					"**4'x8'**",
+					" 16 sp - 3/8 inches thick",
+					" 21 sp - 1/2 inches thick",
+					" 24 sp - 5/8 inches thick",
+					"**4'x10'**",
+					" 41 sp - 5/8 inches thick"
+				]
+			}
+		}
+	},
+	"735146574065303594": {
+		"Tier": {
+			"0": {
+				"Armor": [
+					"10 gp - Shield",
+					"**__Light Armor__**",
+					" 5 gp - Padded",
+					"10 gp - Leather",
+					"45 gp - Studded Leather",
+					"**__Medium Armor__**",
+					"10 gp - Hide",
+					"50 gp - Chain Shirt",
+					"50 gp - Scale Mail",
+					"**__Heavy Armor__**",
+					"30 gp - Ring Mail",
+					"75 gp - Chain Mail"
+				],
+				"Weapons": [
+					"**__Simple Melee__**",
+					" 1 sp - Club",
+					" 2 gp - Dagger",
+					" 5 gp - Handaxe",
+					" 5 sp - Javelin",
+					" 2 sp - Light Hammer",
+					" 2 sp - Quarterstaff",
+					" 1 gp - Sickle",
+					"**__Martial Melee__*",
+					"10 gp - Battleaxe",
+					"25 gp - Rapier",
+					"25 gp - Scimitar",
+					"10 gp - Shortsword",
+					"**__Simple Ranged__**",
+					"25 gp - Crossbow, Light",
+					"25 gp - Shortbow",
+					" 5 cp - Dart",
+					"**__Martial Ranged__**",
+					"10 gp - Blowgun",
+					"75 gp - Crossbow, Hand",
+					"50 gp - Longbow"
+				],
+				"Ammunition": [
+					" 1 gp - Arrows (20)",
+					" 1 gp - Blowgun Needles (50)",
+					" 1 gp - Crossbow Bolts (20)"
+				]
+			}
+		}
+	},
+	"735954139737096327": {
+		"Tier": {
+			"0": {
+				"Any Acolyte": [
+					"   15 gp - Ceremony",
+					"   10 gp - Cure wounds (1st level)",
+					"  160 gp - Death Ward",
+					"  210 gp - Divination",
+					"   90 gp - Feign Death",
+					"   40 gp - Gentle Repose",
+					"   40 gp - Lesser Restoration",
+					"   40 gp - Prayer of Healing (2nd level)",
+					"   90 gp - Remove Curse",
+					"   90 gp - Speak with Dead"
+				],
+				"Requires Priest(ess)": [
+					"  450 gp - Greater Restoration",
+					" 2250 gp - Hallow",
+					"  360 gp - Heal",
+					" 2360 gp - Heroes' Feast",
+					" 1250 gp - Raise Dead",
+					" 2490 gp - Resurrection",
+					"50810 gp - True Resurrection"
+				]
+			}
+		}
+	},
+	"735147460305092678": {
+		"Tier": {
+			"0": {
+				"Each Letter": [
+					"  10 gp - 10+ day delivery time",
+					"  20 gp - 5 day delivery time",
+					"  30 gp - 2 day delivery time",
+					"  40 gp - Immediate Delivery"
+				],
+				"Scribing Services": [
+					"   5 gp - per page"
+				],
+				"Each Package": [
+					"  10 gp - 10+ day delivery time",
+					"  20 gp - 5 day delivery time",
+					"  30 gp - 2 day delivery time",
+					"  40 gp - Immediate Delivery"
+				],
+				"Sending Stones": [
+					"2000 gp - Sending Stones (Pair)"
+				]
+			}
+		}
+	},
+	"735955571957694504": {
+		"Tier": {
+			"0": {
+				"Stabling and Food": [
+					"  5 cp - Animal Feed (per day)",
+					"  5 sp - Stabling (per day)"
+				],
+				"Livestock": [
+					" 20 gp - Bull",
+					" 10 sp - Cow",
+					"  8 gp - Donkey, Mule, or Ass",
+					" 15 gp - Ox"
+				],
+				"Dogs": [
+					" 25 gp - Guard",
+					" 17 gp - Hunting",
+					"  4 gp - House",
+					"  5 gp - Lap, small",
+					" 10 gp - Lap, medium",
+					" 20 gp - Lap, large",
+					" 25 gp - Mastiff",
+					" 50 gp - Sled",
+					" 20 gp - Tracking",
+					" 50 gp - War"
+				],
+				"Horses": [
+					" 50 gp - Draft",
+					" 30 gp - Pony",
+					" 75 gp - Riding",
+					"150 gp - Light War",
+					"225 gp - Medium War",
+					"400 gp - Heavy War"
+				],
+				"Tack": [
+					" 15 sp - Bit & Bridle",
+					"  2 gp - Cart Harness",
+					"  5 cp - Halter",
+					"  5 gp - Harness and Feeding Bag",
+					"  2 gp - Hobbles, 1 set",
+					"  2 gp - Horse Blanket/Hood",
+					"  1 gp - Horseshoes, set",
+					"  3 sp - Saddle Blanket",
+					"  3 gp - Saddle Pack"
+				],
+				"Saddles": [
+					"  5 gp - Pack",
+					" 10 gp - Riding",
+					" 20 gp - War Horse",
+					" 50 gp - Tarn"
+				],
+				"Harnesses": [
+					"  3 gp - Single",
+					"  5 gp - Double",
+					"  9 gp - Four",
+					" 15 gp - Six",
+					" 22 gp - Eight"
+				],
+				"Saddle Bags": [
+					"  3 gp - large",
+					"  4 gp - small"
+				]
+			}
+		}
+	},
+	"735935080861532230": {
+		"Tier": {
+			"0": {
+				"Drinks": [
+					" 3 sp - Cup of Tea",
+					" 1 sp - Cup of Coffee",
+					" 3 sp - Cow milk",
+					" 5 sp - Goat milk",
+					" 5 sp - Fruit Juice (Grape, Apple, Orange, Tomato)"
+				],
+				"Sandwhiches": [
+					"**Choice of bread**",
+					"*Wheat, Rye, Sourdough, Ginger, Walnut*",
+					"*Served with fresh salad*",
+					"**Choice of Meat**",
+					" 1 gp - Beef, Chicken, Ham",
+					" 2 gp - Rabbit, Veal, Lamb",
+					"**Choice of cheese**",
+					"*Cheddar, Swiss, Blue*"
+				],
+				"Soups and Stews": [
+					"*Served with rye chips*",
+					" 1 gp - Acorn, Tomato, Vegetable, Oxtail",
+					" 2 gp - Lemming and berry, Bread Bowl Stew"
+				],
+				"Sweets and Cakes": [
+					" 1 sp - Almond Sweet Roll",
+					" 1 gp - Small Cake (4 people)",
+					" 3 gp - Medium Cake (8 people)",
+					" 5 gp - Large Cake (12 people)",
+					" 1 sp - Cheese Danish",
+					" 2 gp - Chocolate candy",
+					" 2 sp - Fruit Tart"
+				],
+				"Candied Fruits and Herbs, per oz": [
+					" 1 gp - Apricots",
+					" 1 gp - Orange Peel",
+					" 5 sp - Carrots",
+					" 5 sp - Cherries",
+					" 1 gp - Honeyed Ginger",
+					" 5 sp - Mint Leaves"
+				],
+				"Honey": [
+					" 1 gp - per pint of Rose Honey",
+					" 1 gp - per pint of Clove Honey",
+					" 1 gp - per pint of Lavender Honey"
+				],
+				"Jams and Jelies": [
+					" 1 gp - per pint of Apricot Jam/Jelly",
+					" 1 gp - per pint of Blackberry Jam/Jelly",
+					" 1 gp - per pint of Lemon Jam/Jelly",
+					" 5 sp - per pint of Elderberry Jam/Jelly",
+					" 5 sp - per pint of Mint Jam/Jelly",
+					" 5 sp - per pint of Strawberry Jam/Jelly"
+				],
+				"Marmalades": [
+					" 2 gp - per pint of Ginger Marmalade",
+					" 2 gp - per pint of Orange Marmalade",
+					" 2 gp - per pint of Lime Marmalade"
+				],
+				"Loose, Dry Goods": [
+					" 1 gp - Coffee, per lb",
+					" 3 gp - Tea, per lb",
+					"10 gp - Chocolate powder, per oz"
+				]
+			}
+		}
+	},
+	"735950274828566528": {
+		"Tier": {
+			"0": {
+				"Fruit": [
+					" 1 gp - Berries, common (blueberries, chokeberries, cloudberries, elderberries, gooseberries, grapes, mulberries, raspberries, strawberries)",
+					" 3 gp - Berries, premium (blackberries*, cranberries*, huckleberries*, salmonberries*)",
+					" 1 gp - Fruit, common (apples, apricots, cherries, peaches, pears, plums)",
+					" 3 gp - Fruit, premium (dates*, figs*, melon*, orange*, pineapple*, pomegranate*)"
+				],
+				"Vegetables": [
+					" 3 sp - Grains, whole or ground (amaranth, barley, oats, quinoa, rice, rye, wheat)",
+					" 5 sp - Vegetables, common (beets, bell peppers, broccoli, brussels sprouts, carrots, cucumber, corn, eggplant, hops, leafy greens, legumes, onions, peas, potatoes, pumpkin, radish, squash, turnip, zucchini)",
+					" 1 gp - Vegetables, premium (asparagus, flowers, garlic, ginger, hot peppers, tobacco, tomato)"
+				],
+				"Protein": [
+					" 3 sp - Egg, dozen",
+					" 3 sp - Fish, common (brown trout, common carp, largemouth bass)",
+					" 1 gp - Fish, delicacy (black sea bass*, cod*, dogfish*, eel*, flounder*, salmon, shark*, snapper bluefish*, sturgeon*, squid*, tautog*)",
+					" 5 sp - Fish, premium (bluefin tuna*, halibut*, haddock*, rainbow trout, smallmouth bass, striped bass*)",
+					"10 gp - Fish Eggs",
+					" 3 sp - Meat, common (beef, boar, chicken, elk, goat, pork, venison)",
+					" 1 gp - Meat, delicacy (duck, pheasant, rabbit, turkey)",
+					" 5 sp - Meat, premium (bear, lamb)",
+					" 1 gp - Mushrooms, common (beefsteak polypore, chicken of the woods, dryad's mantle, oyster mushrooms, portabella, turkey-tail, white mushroom)",
+					" 5 gp - Mushrooms, delicacy (chanterelle, lion's mane, morchella, shitake, truffle)",
+					"15 sp - Nuts, common (black walnuts, chestnuts, hazelnuts, pine nuts, walnut)",
+					" 3 gp - Nuts, premium (almonds*, cashews*, coconuts*, pecans*, pistachios*)",
+					" 5 gp - Shellfish, premium (crab*, lobster*, prawns*, shrimp*)",
+					"10 gp - Shellfish, delicacy (clams*, mussels*, oysters*, scallops*, sea snails*)"
+				],
+				"Processed Foods": [
+					" 5 sp - Bread Loaf, Artisan",
+					" 1 gp - Cheese, common (cheddar, cottage, parmesan, pepper jack, provolone, swiss)",
+					" 10 gp - Cheese, premium (bleu, brie, camembert, emmentaler, feta, gorgonzola, gouda, gruyère, mozzarella, ricotta)",
+					" 3 gp - Dehydrated goods (jerky, prunes, raisins, etc)",
+					" 1 gp - Pickled/jarred goods (eggs, fish, fruit, pickles)",
+					" 5 sp - Rations, 1 day",
+					" 5 sp - Spices, 1 oz (allspice, black pepper, catnip, cinnamon, cloves, cumin*, mustard, mace, nutmeg, rock salt, white pepper)"
+				]
+			}
+		}
+	},
+	"748614469550080096": {
+		"Tier": {
+			"0": {
+				"Transportation": [
+					"  15 gp - Caravan to Crimson Port (21 days)",
+					"  30 gp - Caravan to Crimson Port (15.5 days)",
+					"  30 gp - Boat to Crimson Port (4.5 days), shared bunk",
+					"  60 gp - Boat to Crimson Port (4.5 days), cabin",
+					"  80 gp - Boat to Crimson Port (2 days), shared bunk",
+					" 160 gp - Boat to Crimson Port (2 days), cabin"
+				],
+				"Protection": [
+					" 8 gp - Each day (comes with a party of guards to protect the traveling party)"
+				],
+				"Water Vehicles": [
+					" 500 gp - Boat, collapsible",
+					"  75 gp - Boat, small",
+					"  30 gp - Small Canoe",
+					"  50 gp - War Canoe",
+					" 500 gp - Currach",
+					"  20 gp - Sailboat",
+					" 100 gp - Raft or small keelboat",
+					" 250 gp - Kayak"
+				],
+				"Land Vehicles": [
+					"  30 gp - Common Cart (250 lb max load)",
+					"  80 gp - Reinforced Cart (8000 lb max load)",
+					" 150 gp - Carriage, Common",
+					" 200 gp - Riding Chariot",
+					" 500 gp - War Chariot",
+					"7000 gp - Coach, Ornamental",
+					"  30 gp - Dog Sled",
+					" 250 gp - Closed Wagon",
+					" 150 gp - Open Wagon",
+					" 200 gp - Two-person Sleigh",
+					" 300 gp - Four-person Sleigh"
+				],
+				"Miscellaneous": [
+					"   2 gp - Common Oar",
+					"   8 gp - Ice Skates, small race",
+					"   9 gp - Ice Skates, most other races",
+					"  10 gp - Ice Skates, big feet like Half-orc",
+					"  15 gp - Snowskis",
+					"   5 gp - Wagon or cart wheel"
+				]
+			}
+		}
+	},
+	"735923795344228453": {
+		"Tier": {
+			"0": {
+				"Drinks": [
+					" 1 sp - Ale, pint",
+					" 5 sp - Honey Drip Mead",
+					"**Liquor** *(You get what you get)*",
+					" 3 sp - Shot",
+					"48 sp - Bottle (16 Shots)",
+					" free - water(?)"
+				],
+				"Food": [
+					" 3 sp - Stockpot Stew/Soup",
+					" 5 sp - Adventurer's Steak",
+					" 3 sp - Minced Pork",
+					" 8 sp - Roast Goat & Cheese",
+					" 2 gp - Aurochs Jerky",
+					" 5 cp - Some Nuts/Snacks Rosie found in the storeroom"
+				],
+				"Room and Board": [
+					"15 gp - per week per person for a Cot in shared space with food",
+					"25 gp - per week per person for a shared room with food"
+				]
+			}
+		}
+	},
+	"736227269093228604": {
+		"Tier": {
+			"0": {
+				"Magical Tattoos": [
+					"__Common__",
+					"  55 gp - Illuminator's Tattoo",
+					"  80 gp - Masquerade Tattoo",
+					"  50 gp - Spellwrought Tattoo, Cantrip*",
+					" 100 gp - Spellwrought Tattoo, 1st level*",
+					"__Uncommon__",
+					" 250 gp - Barrier Tattoo, Uncommon",
+					" 700 gp - Coiling Grasp Tattoo",
+					"__Rare__",
+					"1000 gp - Barrier Tattoo, Rare",
+					"__Very Rare__",
+					"2000 gp - Barrier Tattoo, Very Rare",
+					"*You must pay for spell components as well if the spell requires them.**"
+				],
+				"Tattoo Removal": [
+					"  50 gp - One hand/foot or a quarter limb",
+					" 100 gp - Half a limb or the scalp",
+					" 200 gp - One Limb",
+					" 400 gp - Two limbs or the chest/upper back"
+				],
+				"Tattoo Services": [
+					"  90 gp - Supplies",
+					"  20 gp - B&W",
+					"  35 gp - Color",
+					"  55 gp - Full Ink Set",
+					"__Labor__",
+					"  50 gp - Small",
+					" 100 gp - Medium",
+					" 250 gp - Large"
+				],
+				"Specialty Inks": [
+					"1000 gp - Detection Ink",
+					" 100 gp - Elemental Ink",
+					" 100 gp - Glamor Ink",
+					" 100 gp - Glow Ink",
+					" 100 gp - Metallic Ink",
+					" 150 gp - Mood Ink",
+					"  50 gp - Prismatic Ink",
+					"5000 gp - Shifting Ink",
+					"  50 gp - Temporary Ink",
+					" 200 gp - Three-Dimensional Ink"
+				],
+				"Piercings": [
+					"  40 gp - Anchor",
+					"  30 gp - Anti-Tragus",
+					"  30 gp - Bridge",
+					"  30 gp - Cheek (single)",
+					"  55 gp - Cheek (pair)",
+					"  30 gp - Conch",
+					"  30 gp - Daith",
+					"  30 gp - Eyebrow",
+					"  30 gp - Forward Helix",
+					"  30 gp - Helix",
+					"  55 gp - Industrial",
+					"  30 gp - Lip/Labret",
+					"  30 gp - Monroe/Philtrum",
+					"  25 gp - Earlobe(Single)",
+					"  50 gp - Earlobe(Pair)",
+					"  30 gp - Navel",
+					"  30 gp - Nostril",
+					"  30 gp - Rook",
+					"  30 gp - Septum",
+					"  30 gp - Smiley",
+					"  30 gp - Snug",
+					"  40 gp - Surface",
+					"  30 gp - Tongue",
+					"  30 gp - Tragus"
+				]
+			},
+			"2": {
+				"Type1": [
+					" 200 gp - Spellwrought Tattoo, 2nd level*",
+					" 300 gp - Spellwrought Tattoo, 3rd level*",
+					"*You must pay for spell components as well if the spell requires them.**"
+				]
+			},
+			"3": {
+				"Magical Tattoos": [
+					"__Uncommon__",
+					"7000 gp - Eldritch Claw Tattoo",
+					"__Rare__",
+					"5500 gp - Shadowfell Brand Tattoo",
+					" 500 gp - Spellwrought Tattoo, 4th level*",
+					"*You must pay for spell components as well if the spell requires them.**"
+				]
+			},
+			"4": {
+				"Magical Tattoos": [
+					"__Rare__",
+					" 800 gp - Spellwrought Tattoo, 5th level*",
+					"*You must pay for spell components as well if the spell requires them.**"
+				]
+			}
+		}
+	},
+	"946219592441823242": {
+		"Tier": {
+			"0": {
+				"Speshuls": [
+					" 1 sp - Some Kind of Pie (slice)",
+					" 6 sp - Glass of Old Jolly's Special Reserve Rum",
+					" 9 gp - Bottle of Old Jolly's Special Reserve Rum"
+				],
+				"Drinks": [
+					" 5 sp - Whiskey - Sipping",
+					" 3 sp - Whiskey - Gulping",
+					" 1 sp - Bottle Beer",
+					"15 cp - Fancy Bottle Beer"
+				],
+				"Food": [
+					" 5 sp - Meat-on-a-stick",
+					" 8 sp - Meatball Surprise in a Bun"
+				],
+				"Jenrul Store": [
+					" 5 gp - Chain (10 feet)",
+					"10 gp - Lantern, Bullseye",
+					"10 gp - Lock",
+					" 1 cp - Sack",
+					" 5 gp - Chest",
+					" 3 sp - Rations (probably expired)",
+					" 1 gp - Rope, Hempen (50 feet)",
+					"25 gp - Climber's Kit",
+					" 2 gp - Shovel",
+					" 2 gp - Manacles",
+					" 2 gp - Crowbar",
+					" 5 gp - Hunting Trap"
+				],
+				"Speshul Supplys (Available to @ Back Alley Denizen only": [
+					"25 gp - Thieves Tools",
+					"15 gp - Forgery Kit",
+					"50 gp - Poisoner's Kit",
+					"25 gp - Disguise Kit",
+					"16 gp - Burglar's Pack"
+				]
+			}
+		}
+	},
+	"946235425230573628": {
+		"Tier": {
+			"0": {
+				"Protein": [
+					"3 sp - Meat, common (beef, boar, chicken, elk, goat, mystery, pork, venison)",
+					"5 sp - Meat, premium (bear, lamb)"
+				]
+			}
+		}
+	},
+	"949169791418126366": {
+		"Tier": {
+			"0": {
+				"Potions and Consumables": [
+					" 50 gp - Antitoxin (vial)",
+					"125 gp - Keoghtom's Ointment, single dose (max 5)",
+					" 50 gp - Potion of Healing",
+					"175 gp - Potion of Animal Friendship",
+					" 50 gp - Potion of Watchful Rest",
+					"375 gp - Dust of Sneezing and Choking"
+				],
+				"Wands": [
+					" 30 gp - Wand of Scowls",
+					" 30 gp - Wand of Smiles"
+				],
+				"Remedies": [
+					" 50 gp - Blinded - Bel's Eyebright Tincture",
+					" 50 gp - Charmed - Essence of Theirgir",
+					" 50 gp - Deafened - Sheel Root",
+					" 50 gp - Frightened - Dramin Salts",
+					" 50 gp - Paralyzed - Garian Balm",
+					" 50 gp - Stunned - Salts of Baw Dearc"
+				],
+				"Herbs and Herbalism": [
+					"  5 gp - Herbalism Kit",
+					"  5 gp - Healer's Kit",
+					"  5 gp - Eyebright Flowers"
+				],
+				"Rituals and Mystical": [
+					" 90 gp - Remove Curse",
+					" 40 gp - Lesser Restoration",
+					" 90 gp - Speak with Dead",
+					"210 gp - Divination"
+				]
+			}
+		}
+	},
+	"949169852982104064": {
+		"Tier": {
+			"0": {
+				"Miscellaneous": [
+					"  40 gp - Perfume of Bewitching",
+					"  85 gp - Philter of Love",
+					" 275 gp - Pixie Dust"
+				],
+				"Ingested Poisons": [
+					" 150 gp - Assassin's Blood",
+					"1500 gp - Midnight Tears*",
+					" 250 gp - Pale Tincture",
+					" 125 gp - Potion of Poison",
+					" 600 gp - Torpor",
+					" 150 gp - Truth Serum"
+				],
+				"Inhaled Poisons": [
+					" 500 gp - Burnt Othur Fumes",
+					" 300 gp - Essence of Ether",
+					" 250 gp - Malice"
+				],
+				"Contact Poisons": [
+					" 200 gp - Carrion Crawler Mucus",
+					" 400 gp - Oil of Taggit"
+				],
+				"Injury Poisons": [
+					" 200 gp - Drow Poison",
+					"2000 gp - Purple Worm Poison*",
+					" 200 gp - Serpent Venom",
+					"1200 gp - Wyvern Poison*"
+				]
+			}
+		}
+	},
+	"954930916197818378": {
+		"Tier": {
+			"0": {
+				"Food Stalls (Back Alley Denizen Menu)": [
+					"5 sp - Turkey leg",
+					"8 sp - Hot Sausage Flatbread wrap",
+					"6 sp - 3x Meat/Veg Skewers",
+					"1 sp - Ale",
+					"1 sp - Redleg Coffee",
+					"3 sp - Goat Milk"
+				],
+				"Food Stalls (Redleg Menu)": [
+					"3 sp - Turkey leg",
+					"5 sp- Hot Sausage Flatbread wrap",
+					"4 sp - 3x Meat/Veg Skewers",
+					"8 cp - Ale",
+					"5 cp - Redleg Coffee",
+					"2 sp - Goat Milk"
+				]
+			}
+		}
+	},
+	"736791479703437322": {
+		"Tier": {
+			"0": {
+				"Mammals": [
+					"  5 gp - Bat",
+					"  3 cp - Cat",
+					" 15 gp - Dog",
+					"  8 gp - Fox",
+					"  5 gp - Hedgehog",
+					"  2 gp - Rabbit",
+					"  5 gp - Raccoon",
+					"  1 cp - Rat",
+					"  1 gp - Squirrel",
+					"  2 gp - Weasel"
+				],
+				"Birds": [
+					"  4 cp - Canary",
+					"  1 gp - Chicken",
+					"  2 gp - Duck",
+					" 40 gp - Falcon",
+					" 18 gp - Hawk",
+					" 20 gp - Owl",
+					"  2 gp - Raven"
+				],
+				"Reptiles and Amphibians": [
+					" 12 gp - Gecko",
+					"  5 cp - Lizard",
+					"  5 gp - Snake",
+					"  2 cp - Toad",
+					"  3 gp - Turtle"
+				],
+				"Insects": [
+					" 25 gp - Spider"
+				],
+				"Equipment and Supplies": [
+					" 80 gp - Aquarium Ball",
+					"  2 gp - Bit and bridle",
+					"  2 sp - Brush, dandy",
+					"  2 gp - Cage, Tiny",
+					" 15 gp - Cage, Small or Medium",
+					" 30 gp - Cage, Large",
+					" 10 gp - Falconry gauntlet",
+					"  5 cp - Animal feed (per day)",
+					"  5 cp - Bird feed (per day)",
+					"  5 cp - Carnivore feed (per day)",
+					"  2 gp - Harness",
+					" 15 gp - Training kit (beast)",
+					" 17 gp - Training kit (bird)",
+					"100 gp - Training sleeve",
+					"  1 gp - Little Critter Milk (per day)"
+				]
+			}
+		}
+	},
+	"735147169459470487": {
+		"Tier": {
+			"0": {
+				"Services": [
+					"   5 gp - Gemstones Appraisal",
+					"  40 gp - Gemstone Cutting (see other pins for details)"
+				],
+				"Set Gemstones (by gem price": [
+					"  45 gp - 50 gp gems or less",
+					"  75 gp - 500 gp gems",
+					" 150 gp - 1000 gp Gems or more"
+				],
+				"Jewelry": [
+					"**Amulets**",
+					"  15 sp - Wood, Iron, Pewter, or Steel",
+					"  25 gp - Silver",
+					"  40 gp - Gold",
+					"  75 gp - Platinum",
+					"**Bracelet**",
+					"  25 sp - Wood, Iron, Pewter, or Steel",
+					"  40 gp - Silver",
+					"  65 gp - Gold",
+					" 125 gp - Platinum",
+					"**Brooch**",
+					"  15 sp - Wood, Iron, Pewter, or Steel",
+					"  25 gp - Silver",
+					"  40 gp - Gold",
+					"  75 gp - Platinum",
+					"**Crown**",
+					"   5 gp - Wood, Iron, Pewter, or Steel",
+					"  75 gp - Silver",
+					" 125 gp - Gold",
+					" 250 gp - Platinum",
+					"**Earrings**",
+					"  35 sp - Wood, Iron, Pewter, or Steel",
+					"  55 gp - Silver",
+					"  90 gp - Gold",
+					" 175 gp - Platinum",
+					"**Locket**",
+					"  25 sp - Wood, Iron, Pewter, or Steel",
+					"  40 gp - Silver",
+					"  65 gp - Gold",
+					" 125 gp - Platinum",
+					"**Ring**",
+					"   1 gp - Wood, Iron, Pewter, or Steel",
+					"  15 gp - Silver",
+					"  25 gp - Gold",
+					"  50 gp - Platinum"
+				],
+				"Jewelry Gemstones": [
+					"  10 gp - Azurite",
+					"  10 gp - Banded Agate",
+					"  10 gp - Blue Quartz",
+					"  10 gp - Crystal",
+					"  10 gp - Eye Agate",
+					"  10 gp - Geode",
+					"  10 gp - Gold Dust",
+					"  10 gp - Hematite",
+					"  10 gp - Lapis lazuli",
+					"  10 gp - Malachite",
+					"  10 gp - Moss Agate",
+					"  10 gp - Obsidian",
+					"  10 gp - Rhodochrosite",
+					"  10 gp - Tiger Eye",
+					"  10 gp - Turquoise",
+					"  50 gp - Bloodstone",
+					"  50 gp - Carnelian",
+					"  50 gp - Chalcedony",
+					"  50 gp - Chrysoprase",
+					"  50 gp - Citrine",
+					"  50 gp - Jasper",
+					"  50 gp - Moonstone",
+					"  50 gp - Onyx",
+					"  50 gp - Quartz",
+					"  50 gp - Sardonyx",
+					"  50 gp - Smokey Quartz",
+					"  50 gp - Star Rose Quartz",
+					"  50 gp - Zircon",
+					" 500 gp - Alexandrite",
+					" 500 gp - Amber",
+					" 500 gp - Amethyst",
+					" 500 gp - Aquamarine",
+					" 500 gp - Black Pearl",
+					" 500 gp - Blue Spinel",
+					" 500 gp - Chrysoberyl",
+					" 500 gp - Garnet",
+					" 500 gp - Jade",
+					" 500 gp - Jet",
+					" 500 gp - Pearl",
+					" 500 gp - Peridot",
+					" 500 gp - Topaz",
+					" 500 gp - Tourmaline",
+					"1000 gp - Black Opal",
+					"1000 gp - Blue Opal",
+					"1000 gp - Blue Sapphire",
+					"1000 gp - Emerald",
+					"1000 gp - Fire Opal",
+					"1000 gp - Opal",
+					"1000 gp - Star Ruby",
+					"1000 gp - Star Sapphire",
+					"1000 gp - Yellow Sapphire",
+					"5000 gp - Black Sapphire",
+					"5000 gp - Diamond",
+					"5000 gp - Emerald",
+					"5000 gp - Jacinth",
+					"5000 gp - Ruby"
+				]
+			}
+		}
+	},
+	"735923826373820517": {
+		"Tier": {
+			"0": {
+				"Armor": [
+					"   5 gp - Padded",
+					"  10 gp - Leather",
+					"  45 gp - Studded Leather",
+					"  10 gp - Hide",
+					"  50 gp - Chain Shirt",
+					"  50 gp - Scale Mail",
+					" 400 gp - Breastplate",
+					" 750 gp - Halfplate",
+					"  30 gp - Ring Mail",
+					"  75 gp - Chain Mail",
+					" 200 gp - Splint",
+					"1500 gp - Plate",
+					"  10 gp - Shield"
+				],
+				"Simple Melee Weapons": [
+					"   1 sp - Club",
+					"   2 gp - Dagger",
+					"   2 sp - Greatclub",
+					"   5 gp - Handaxe",
+					"   5 sp - Javelin",
+					"   2 sp - Light Hammer",
+					"   5 gp - Mace",
+					"   2 sp - Quarterstaff",
+					"   1 gp - Sickle",
+					"   1 gp - Spear"
+				],
+				"Simple Ranged Weapons": [
+					"  25 gp - Crossbow, Light",
+					"   5 cp - Dart",
+					"  25 gp - Shortbow",
+					"   1 sp - Sling"
+				],
+				"Martial Melee Weapons": [
+					"  10 gp - Battleaxe",
+					"  10 gp - Flail",
+					"  20 gp - Glaive",
+					"  30 gp - Greataxe",
+					"  50 gp - Greatsword",
+					"  20 gp - Halberd",
+					"  10 gp - Lance",
+					"  15 gp - Longsword",
+					"  10 gp - Maul",
+					"  15 gp - Morningstar",
+					"   5 gp - Pike",
+					"  25 gp - Rapier",
+					"  25 gp - Scimitar",
+					"  10 gp - Shortsword",
+					"   5 gp - Trident",
+					"   5 gp - War Pick",
+					"  15 gp - Warhammer",
+					"   2 gp - Whip"
+				],
+				"Martial Ranged Weapons": [
+					"  10 gp - Blowgun",
+					"  75 gp - Crossbow, Hand",
+					"  50 gp - Crossbow, Heavy",
+					"  50 gp - Longbow",
+					"   1 gp - Net"
+				],
+				"Ammunition": [
+					"   1 gp - Arrows (20)",
+					"   1 gp - Blowgun Needles (50)",
+					"   1 gp - Crossbow Bolts (20)",
+					"   4 cp - Sling Bullets (20)"
+				]
+			}
+		}
+	},
+	"735147592756756521": {
+		"Tier": {
+			"0": {
+				"Room and Board": [
+					" 50gp - per week for a Deluxe Room with food and drink",
+					" 80gp - per week per person for a Double Deluxe Room with food and drink"
+				],
+				"Ales and Beers": [
+					" 15 cp - per Pint of Light Ale, Bitter Ale",
+					"  3 sp - per Pint of Dark Ale, Stout",
+					" 15 sp - per Jug (10 pints) of Light Ale, Bitter Ale",
+					" 30 sp - per Jug (10 pints) of Dark Ale, Stout",
+					" 75 sp - per Keg (50 pints) of Light Ale, Bitter Ale",
+					" 15 gp - per Keg (50 pints) of Dark Ale, Stout"
+				],
+				"Spirits": [
+					"  5 sp - per Glass of Almond or Regular Brandy, Whiskey, or Rum",
+					"  1 gp - per Glass of Single Malt Scotch, or Elvin Brandy",
+					"  2 gp - per Glass of Elverquisst, or our Selection of Fine Liquors",
+					" 75 sp - per Bottle (16 Shots) of Almond or Regular Brandy, Whiskey, or Rum",
+					" 15 gp - per Bottle (16 Shots) of Single Malt Scotch, or Elvin Brandy",
+					" 30 gp - per Bottle (16 Shots) of Elverquisst, or our Selection of Fine Liquors",
+					"185 gp - per Cask (25 Bottles) of Almond or Regular Brandy, Whiskey, or Rum",
+					"350 gp - per Cask (25 Bottles) of Single Malt Scotch, or Elvin Brandy",
+					"750 gp - per Cask (25 Bottles) of Elverquisst, or our Selection of Fine Liquors"
+				],
+				"Wines": [
+					"  8 sp - per Glass of Red or White House wine, or Cider",
+					"  1 gp - per Glass of Sparkling Wines, Mead, Port, or Sherry",
+					"  2 gp - per Glass of Evermead, or our selection of Fine Vintages",
+					"  4 gp - per Bottle (5 Glasses) of Red or White House wine, or Cider",
+					"  5 gp - per Bottle (5 Glasses) of Sparkling Wines, Mead, Port, or Sherry",
+					" 10 gp - per Bottle (5 Glasses) of Evermead, or our Selection of Fine Vintages",
+					" 95 gp - per Cask (25 Bottles) of Red or White House wine, or Cider",
+					"112 gp - per Cask (25 Bottles) of Sparkling Wines, Mead, Port, or Sherry",
+					"225 gp - per Cask (25 Bottles) of Evermead, or our Selection of Fine Vintages"
+				],
+				"Full Meals": [
+					"  8 gp - Three Course Meal (Appetizer, Entree, Side, Dessert and drinks)",
+					"  5 gp - Dinner for One (includes a drink)",
+					" 40 gp - Banquet (for 6)"
+				],
+				"Entrees": [
+					"*Choice of Flavours for Roasted Fine Meats: Garlic Butter, Lemon Pepper Rub, Red Wine Sauce*",
+					"  6 gp - Roasted fine Quail, Ox, Veal, or Pheasant served with a choice of 2 sides",
+					"  5 gp - Roasted fine Chicken, Rabbit, Goat, Pork served with a choice of 2 sides",
+					"  6 gp - Prime Steak served with a choice of side",
+					"  4 gp - Mountain River Salmon Platter served on Bed of Fresh Salad",
+					"  2 gp - Sausage & Peppers with Pasta & Sauce",
+					"  2 gp - Vegetable or Chicken Stir Fry with Rice or Noodles (Spicy Garlic or Sweet & Sour)",
+					"  2 gp - Individual Pie made with Pork, Steak & Kidney, Vegetable, or Chicken and served with choice of side"
+				],
+				"Sides": [
+					"  1 gp - Fresh Seasonal Vegetables (Steamed or Roasted)",
+					"  1 gp - Potatoes (Roasted, Boiled, or Fried Wedges)",
+					"  1 gp - Seasoned Beans (Mild or Spicy)",
+					"  1 gp - Fresh Mushrooms",
+					"  1 gp - Garden Salad",
+					"  1 gp - Rice or Pasta"
+				],
+				"Appetizers and Snacks": [
+					"  5 sp - Bread and Butter",
+					"  2 sp - add cheese",
+					"  1 gp - Cold Meat Platter",
+					"  1 gp - Cheese and Crackers Platter",
+					"  1 gp - Seasonal Fruit Bowl"
+				],
+				"Desserts": [
+					"  1 gp - Creme Brulee",
+					"  5 sp - Custard",
+					"  5 sp - Slice of Pie made with Seasonal Fruit, Cinnamon Orange, or Walnut",
+					"  3 gp - Whole Pie",
+					"  1 gp - Frozen Berry Sorbet"
+				],
+				"Drinks": [
+					"  4 sp - Cup of Tea",
+					"  2 sp - Cup of Coffee",
+					"  5 sp - Fruit Juice",
+					"  3 sp - Milk"
+				]
+			}
+		}
+	},
+	"735934966487056414": {
+		"Tier": {
+			"0": {
+				"Spa": [
+					"5 gp - Mud Bath",
+					"7 gp - Massage (per hour, RP locked)",
+					"Free - Bath"
+				]
+			}
+		}
+	},
+	"735146594080522321": {
+		"Tier": {
+			"0": {
+				"Simplified Shopping": [
+					" 5 sp - Clothes, Common",
+					" 5 gp - Clothes, Costume",
+					"15 gp - Clothes, Fine",
+					" 2 gp - Clothes, Traveler's"
+				],
+				"Tops": [
+					" 1 cp - Apron",
+					" 1 gp - Blouse",
+					" 1 gp - Doublet",
+					" 6 gp - Nightshirt",
+					" 4 sp - Simple Shirt",
+					" 1 gp - Dress Shirt",
+					" 8 sp - Linen Jerkin",
+					" 1 gp - Wool Jerkin",
+					"10 gp - Leather Jerkin",
+					"30 gp - Cotton Jerkin",
+					" 5 sp - Cloth Vest w/Pockets",
+					" 1 gp - Fur Vest",
+					" 7 sp - Leather Vest"
+				],
+				"Bottoms": [
+					" 2 gp - Dress Pants",
+					" 3 gp - Skirt",
+					" 4 gp - Kilt",
+					" 5 sp - Sack cloth Breeches",
+					" 1 gp - Linen Breeches",
+					" 2 gp - Woolen Breeches",
+					" 4 gp - Velvet Breeches",
+					" 8 gp - Silk Breeches"
+				],
+				"Single Piece Outfits": [
+					" 7 gp - Cotte",
+					" 7 gp - Simple Dress",
+					" 2 sp - Linen Dress",
+					" 15 gp - Silk Gown Dress",
+					" 3 gp - Cloth Robe",
+					" 3 gp - Fur-Trimmed Robe",
+					" 20 gp - Embroidered Robe",
+					" 10 gp - Silk Robe"
+				],
+				"Outerwear": [
+					" 4 sp - Half Cape",
+					" 7 sp - Full Cape",
+					" 5 sp - Plain Cloak",
+					" 3 gp - Fancy Cloak w/Fur",
+					" 3 gp - Cloth Coat",
+					" 3 gp - Fur-Trimmed Coat",
+					"20 gp - Embroidered Coat",
+					"10 gp - Silk Coat",
+					" 6 sp - Linen Surcoat",
+					" 2 gp - Quilted Surcoat",
+					" 2 sp - Wool Hood",
+					" 2 sp - Linen Hood",
+					" 1 gp - Fur Hood"
+				],
+				"Footwear": [
+					" 2 gp - High Boots (hard)",
+					" 1 gp - High Boots (soft)",
+					" 1 gp - Low Boots (hard)",
+					" 8 sp - Low Boots (soft)",
+					" 3 gp - Riding Boots",
+					"15 sp - Dancing Shoes",
+					"45 gp - Elven Shoes",
+					" 2 gp - Moccasins Shoes",
+					"20 gp - Snow Shoes",
+					"15 sp - Linen Slippers",
+					"35 gp - Quilted Silk Slippers",
+					"10 sp - Wool Slippers"
+				],
+				"Accessories": [
+					" 5 sp - Bow Tie",
+					" 3 gp - Mittens",
+					" 5 sp - Scarf",
+					" 1 gp - Wig",
+					"10 gp - Cannons",
+					" 1 sp - Wool Sash",
+					" 2 sp - Linen Sash",
+					"10 gp - Silk Sash",
+					" 3 sp - Plain Belt",
+					" 1 gp - Fancy Belt",
+					"15 sp - Sword and Dagger Belt",
+					" 4 gp - Money Belt",
+					" 1 sp - Plain Cap",
+					" 5 sp - Fancy Cap",
+					" 6 gp - Archery Gloves",
+					"10 gp - Leather Gloves",
+					" 5 gp - Linen Gloves",
+					" 2 sp - Cloth Gloves",
+					" 4 gp - Fur-Lined Gloves",
+					"15 gp - Silk Gloves",
+					"16 gp - Snakeskin Gloves",
+					" 2 sp - Silk Handkerchief",
+					" 7 sp - Hat Cloth Handkerchief",
+					" 2 gp - Fur Handkerchief",
+					" 2 cp - Straw Handkerchief",
+					" 3 sp - Canvas Suspenders",
+					" 5 sp - Leather Suspenders"
+				],
+				"Other": [
+					" 1 gp - Underwear",
+					" 2 gp - Fancy Underwear",
+					" 5 gp - Side Bustles",
+					" 9 gp - Rear Bustles",
+					" 1 gp - Silk Fan",
+					" 2 sp - Paper Fan",
+					" 2 sp - Broad Girdle",
+					"10 sp - Normal Girdle"
+				],
+				"Jester Clothing": [
+					" 3 gp - 3-cornered hat w/ bells",
+					" 1 gp - Star-collar",
+					"10 gp - Shirt, satin",
+					" 7 sp - White gloves",
+					" 8 gp - Pantaloons, bunchy",
+					" 8 sp - Stockings, bright",
+					"12 gp - Buffoon shoes"
+				],
+				"Winter gear": [
+					"10 gp - Clothing, cold weather",
+					" 2 gp - Crampons (2)",
+					" 2 gp - Snowshoes"
+				]
+			}
+		}
+	},
+	"735513939269648555": {
+		"Tier": {
+			"0": {
+				"Plots of Land": [
+					" 1000 gp - Small Plot (5)",
+					" 1500 gp - Medium Plot (9)",
+					" 2500 gp - Large Plot (15)",
+					" 1500 gp - Relocation Fee (The relocation fee is applied to any plot purchased outside of the Lower District.)"
+				],
+				"Houses": [
+					" 4500 gp - Cottage (3 rooms and Perfect for a small plot of land!)",
+					" 6500 gp - Colonial (5 rooms and a Medium plot is recommended for expansion!)",
+					"15000 gp - Mansion (9 rooms and a Large plot is preferred!)",
+					" 1500 gp - 1 Room Expansion"
+				],
+				"Gardens and Greenhouses": [
+					"  500 gp - Garden, small (1)",
+					" 1000 gp - Garden, medium (2)",
+					" 1500 gp - Garden, large (3)",
+					" 1000 gp - Greenhouse, small (1)",
+					" 2000 gp - Greenhouse, medium (2)",
+					" 3000 gp - Greenhouse, large (3)"
+				],
+				"Furniture Simplified, per room": [
+					"  100 gp - Basic Furnishing",
+					"  500 gp - Fine Furnishing",
+					" 1500 gp - Luxurious Furnishing"
+				],
+				"Beds": [
+					"    5 gp - Basic Baby Cot",
+					"   25 gp - Fine Baby Cot",
+					"   75 gp - Luxurious Baby Cot",
+					"   75 sp - Basic Bunk Bed",
+					"   40 gp - Fine Bunk Bed",
+					"   15 gp - Basic Four Poster Bed",
+					"   75 gp - Fine Four Poster Bed",
+					"  225 gp - Luxurious Four Poster Bed",
+					"    5 gp - Basic Single Mattress",
+					"   25 gp - Fine Single Mattress",
+					"   75 gp - Luxurious Single Mattress",
+					"   10 gp - Basic Double Mattress",
+					"   50 gp - Fine Double Mattress",
+					"  150 gp - Luxurious Double Mattress",
+					"    5 gp - Basic Simple Bed",
+					"   25 gp - Fine Simple Bed",
+					"   75 gp - Luxurious Simple Bed"
+				],
+				"Seating": [
+					"   25 sp - Basic Armchair",
+					"   15 gp - Fine Armchair",
+					"   40 gp - Luxurious Armchair",
+					"    5 gp - Basic Bench",
+					"   25 gp - Fine Bench",
+					"   75 gp - Luxurious Bench",
+					"   10 gp - Basic Loveseat",
+					"   50 gp - Fine Loveseat",
+					"  150 gp - Luxurious Loveseat",
+					"   25 gp - Basic Sectional",
+					"  125 gp - Fine Sectional",
+					"  375 gp - Luxurious Sectional",
+					"   15 gp - Basic Sofa",
+					"   75 gp - Fine Sofa",
+					"  225 gp - Luxurious Sofa",
+					"    5 gp - Basic Rocking Chair",
+					"   25 gp - Fine Rocking Chair",
+					"   75 gp - Luxurious Rocking Chair"
+				],
+				"Light Fixtures": [
+					"    5 gp - Basic Candelabra/Lantern",
+					"   25 gp - Fine Candelabra/Lantern",
+					"   75 gp - Luxurious Candelabra/Lantern",
+					"   25 gp - Basic Chandelier",
+					"  125 gp - Fine Chandelier",
+					"  375 gp - Luxurious Chandelier",
+					"    5 sp - Basic Lamp/Rushlight/Sconce",
+					"   25 sp - Fine Lamp/Rushlight/Sconce",
+					"   75 sp - Luxurious Lamp/Rushlight/Sconce",
+					"   35 gp - Basic Fireplace",
+					"  175 gp - Fine Fireplace",
+					"  525 gp - Luxurious Fireplace"
+				],
+				"Rugs": [
+					"    5 gp - Basic Small Rug",
+					"   25 gp - Fine Small Rug",
+					"   75 gp - Luxurious Small Rug",
+					"   10 gp - Basic Medium Rug",
+					"   50 gp - Fine Medium Rug",
+					"  150 gp - Luxurious Medium Rug",
+					"   25 gp - Basic Large Rug",
+					"  125 gp - Fine Large Rug",
+					"  375 gp - Luxurious Large Rug"
+				],
+				"Storage": [
+					"   15 gp - Basic Bookcase",
+					"   75 gp - Fine Bookcase",
+					"  225 gp - Luxurious Bookcase",
+					"    5 gp - Basic Buffet/Cabinet/Dresser",
+					"   25 gp - Fine Buffet/Cabinet/Dresser",
+					"   75 gp - Luxurious Buffet/Cabinet/Dresser",
+					"   25 gp - Basic Kitchen Island",
+					"  125 gp - Fine Kitchen Island",
+					"  375 gp - Luxurious Kitchen Island",
+					"   25 sp - Basic Ottoman/Rack",
+					"   15 gp - Fine Ottoman/Rack",
+					"   40 gp - Luxurious Ottoman/Rack",
+					"   10 gp - Basic Vanity/Wardrobe",
+					"   50 gp - Fine Vanity/Wardrobe",
+					"  150 gp - Luxurious Vanity/Wardrobe"
+				],
+				"Tables": [
+					"   15 gp - Basic Bar",
+					"   75 gp - Fine Bar",
+					"  225 gp - Luxurious Bar",
+					"   10 gp - Basic Coffee Table",
+					"   50 gp - Fine Coffee Table",
+					"  150 gp - Luxurious Coffee Table",
+					"   25 gp - Basic Dining Table",
+					"  125 gp - Fine Dining Table",
+					"  375 gp - Luxurious Dining Table",
+					"    5 gp - Basic End Table",
+					"   25 gp - Fine End Table",
+					"   75 gp - Luxurious End Table",
+					"   15 gp - Basic Picnic Table",
+					"   75 gp - Fine Picnic Table",
+					"  225 gp - Luxurious Picnic Table",
+					"   15 gp - Basic Study Desk",
+					"   75 gp - Fine Study Desk",
+					"  225 gp - Luxurious Study Desk"
+				],
+				"Business Investment": [
+					" 5000 gp - Basic Business (tier 1)",
+					"25000 gp - Advanced Business (tier 2)",
+					"50000 gp - Luxury Shop (tier 3)",
+					"20000 gp - Upgrade from Tier 1 to Tier 2",
+					"25000 gp - Upgrade from Tier 2 to Tier 3"
+				]
+			}
+		}
+	},
+	"735923928811307090": {
+		"Tier": {
+			"2": {
+				"Consumables": [
+					" 500 gp - Gem of Brightness",
+					"  50 gp - Spell Scroll, cantrip",
+					" 100 gp - Spell Scroll, 1st level",
+					" 200 gp - Spell Scroll, 2nd level",
+					" 300 gp - Spell Scroll, 3rd level",
+					" 500 gp - Spell Scroll, 4th level",
+					" 800 gp - Spell Scroll, 5th level"
+				],
+				"Weapons": [
+					"1350 gp - Dagger of Venom",
+					" 850 gp - Dragon's Wrath, Slumbering (1)",
+					"1000 gp - Insignia of Claws",
+					"1050 gp - Javelin of Lightning",
+					"1250 gp - Lightbringer (2)",
+					"1250 gp - Shatterspike (2)",
+					" 650 gp - Sword of Life Stealing (1)",
+					" 600 gp - Sword of Wounding (1)",
+					" 600 gp - Trident of Fish Command",
+					" 600 gp - Vicious Weapon (1)",
+					"  50 gp - Walloping Ammunition",
+					"1000 gp - Weapon +1",
+					" 875 gp - Weapon of Warning",
+					"**Can be put on all weapon types. (1)**",
+					"**Can be put onto all melee weapon types. (2)**"
+				],
+				"Armor": [
+					"1200 gp - Adamantine Armor",
+					"1000 gp - Armor +1",
+					"2000 gp - Armor of Resistance",
+					"3000 gp - Glamoured Studded Leather (1)",
+					"1150 gp - Sentinel Shield",
+					"1000 gp - Shield +1",
+					"**Can be upgraded from +1 armor for 1000 gp less. (1)**"
+				],
+				"Foci": [
+					"1200 gp - All Purpose Tool +1",
+					"1200 gp - Amulet of the Devout +1",
+					"1200 gp - Arcane Grimoire +1",
+					"1200 gp - Bloodwell Vial +1",
+					" 650 gp - Dragon-Touched Focus, Slumbering",
+					"1200 gp - Moon Sickle +1",
+					"1200 gp - Rhythm Maker's Drum +1",
+					"1200 gp - Rod of the Pact Keeper +1",
+					"1000 gp - Wand of the War Mage +1"
+				],
+				"Wands/Staves": [
+					" 650 gp - Rod of Retribution",
+					" 875 gp - Skyblinder Staff",
+					" 200 gp - Staff of the Adder",
+					" 200 gp - Staff of the Python",
+					" 600 gp - Wand of Entangle",
+					" 550 gp - Wand of Magic Detection",
+					"1500 gp - Wand of Magic Missile",
+					" 750 gp - Wand of Secrets",
+					"1000 gp - Wand of Web",
+					"2000 gp - Wand of Winter"
+				],
+				"Accessories": [
+					" 475 gp - Amulet of Proof Against Detection and Location",
+					" 875 gp - Amulet of the Drunkard",
+					"3000 gp - Boots of Elvenkind",
+					" 475 gp - Boots of Striding and Springing",
+					"2000 gp - Boots of the Winterlands",
+					" 650 gp - Bracers of Archery",
+					" 475 gp - Brooch of Shielding",
+					" 950 gp - Cap of Water Breathing",
+					" 850 gp - Circlet of Blasting",
+					"3500 gp - Cloak of Elvenkind",
+					"1500 gp - Cloak of Protection",
+					"5000 gp - Cloak of the Manta Ray",
+					" 725 gp - Dragonhide Belt +1",
+					" 450 gp - Efficient Quiver",
+					" 300 gp - Eyes of Charming",
+					" 950 gp - Eyes of Minute Seeing",
+					"1000 gp - Eyes of the Eagle",
+					"1000 gp - Gauntlets of Ogre Power",
+					" 750 gp - Gloves of Missile Snaring",
+					" 475 gp - Gloves of Swimming and Climbing",
+					"3125 gp - Gloves of Thievery",
+					" 950 gp - Goggles of Night",
+					" 500 gp - Guardian Emblem",
+					"3500 gp - Hat of Disguise",
+					" 750 gp - Helm of Telepathy",
+					" 450 gp - Medallion of Thoughts",
+					" 500 gp - Nature's Mantle",
+					" 475 gp - Necklace of Adaptation",
+					" 950 gp - Periapt of Health",
+					" 700 gp - Periapt of Wound Closure",
+					"1200 gp - Ring of Jumping",
+					"1600 gp - Ring of Swimming",
+					"1250 gp - Ring of Water Walking",
+					" 350 gp - Robe of Useful Items",
+					" 650 gp - Scaled Ornament, Slumbering",
+					" 750 gp - Slippers of Spider Climbing",
+					" 700 gp - Spies' Murmur",
+					"3500 gp - Winged Boots"
+				],
+				"Odds and Ends": [
+					" 850 gp - Alchemy Jug (regular, blue, or orange)",
+					"2000 gp - Bag of Tricks",
+					" 500 gp - Chime of Opening",
+					" 950 gp - Decanter of Endless Water",
+					" 750 gp - Deck of Illusions",
+					" 650 gp - Dragon Vessel, Slumbering",
+					" 950 gp - Eversmoking Bottle",
+					"1000 gp - Handy Haversack",
+					"1250 gp - Immovable Rod",
+					" 650 gp - Lantern of Revealing",
+					"1500 gp - Luckstone",
+					" 600 gp - Pearl of Power",
+					"2500 gp - Pipes of Haunting",
+					" 500 gp - Pipes of the Sewers",
+					" 950 gp - Rope of Climbing",
+					" 650 gp - Saddle of the Cavalier",
+					" 875 gp - Wind Fan"
+				]
+			}
+		}
+	},
+	"784573032860876800": {
+		"Tier": {
+			"3": {
+				"Consumables": [
+					"  250 gp - Bead of Force",
+					"  625 gp - Chromatic Rose"
+				],
+				"Weapons": [
+					" 3000 gp - Acheron Blade (2)",
+					" 1000 gp - Blood Spear +2 (4)",
+					" 3500 gp - Dagger of Blindsight (3)",
+					" 4000 gp - Dragon Slayer (3)",
+					" 6000 gp - Dragon's Wrath, Stirring (1)",
+					" 8500 gp - Flame Tongue (2)",
+					" 3000 gp - Giant Slayer (3)",
+					" 2500 gp - Mace of Disruption (3)",
+					" 3000 gp - Mace of Smiting (3)",
+					" 3000 gp - Mace of Terror (3)",
+					" 6000 gp - Serpent's Fang (5)",
+					" 8500 gp - Sun Blade (3)",
+					" 6000 gp - Two-birds Sling (6)",
+					" 4000 gp - Weapon +2 (1)",
+					" 4000 gp - Woodcutter's Axe (7)",
+					"**Requires +1 version. (1)**",
+					"**Can be any weapon. (2)**",
+					"**Can be any melee weapon. (3)**",
+					"**Requires any +2 melee weapon. (4)**",
+					"**Can be any melee piercing/slashing weapon. (5)**",
+					"**Can be any ranged weapon. (6)**",
+					"**Axes only. (7)**"
+				],
+				"Armor": [
+					" 3000 gp - Animated Shield",
+					" 4000 gp - Armor +2 (1)",
+					" 2500 gp - Arrow-Catching Shield",
+					" 3500 gp - Battering Shield",
+					" 6000 gp - Dwarven Plate",
+					" 1500 gp - Elven Chain",
+					" 2500 gp - Heward's Hireling Armor",
+					" 5000 gp - Hunter's Coat",
+					" 6000 gp - Mizzium Armor (2)",
+					" 4500 gp - Pariah's Shield",
+					" 5000 gp - Sapphire Shield",
+					" 7000 gp - Serpent Scale Armor",
+					" 4000 gp - Shield +2 (1)",
+					" 1500 gp - Shield of Missile Attraction",
+					" 8500 gp - Spellguard Shield",
+					"**Requires +1 version. (1)**",
+					"**Requires adamantine armor. (2)**"
+				],
+				"Foci": [
+					" 4800 gp - All Purpose Tool +2 (1)",
+					" 4800 gp - Amulet of the Devout +2 (1)",
+					" 4800 gp - Arcane Grimoire +2 (1)",
+					" 4800 gp - Bloodwell Vial +2 (1)",
+					" 3000 gp - Dragon-Touched Focus +2 (1)",
+					" 4800 gp - Moon Sickle +2 (1)",
+					" 4800 gp - Rhythm Maker's Drum +2 (1)",
+					" 4800 gp - Rod of the Pact Keeper +2 (1)",
+					" 4000 gp - Wand of the War Mage +2 (1)",
+					"**Requires +1 version. (1)**"
+				],
+				"Wands/Staves": [
+					" 3000 gp - Rod of Rulership",
+					" 5000 gp - Spider Staff",
+					" 3000 gp - Staff of Charming",
+					" 4000 gp - Staff of Healing",
+					" 4500 gp - Staff of the Ivory Claw",
+					" 3000 gp - Staff of Withering",
+					" 5000 gp - Tentacle Rod",
+					" 3000 gp - Wand of Binding",
+					" 3000 gp - Wand of Enemy Detection",
+					" 3000 gp - Wand of Fear",
+					" 4000 gp - Wand of Fireballs",
+					" 4000 gp - Wand of Lightning Bolts",
+					" 4000 gp - Wand of Paralysis",
+					" 3000 gp - Wand of Wonder"
+				],
+				"Accessories": [
+					" 3500 gp - Amulet of Health",
+					" 2500 gp - Belt of Dwarvenkind",
+					" 2500 gp - Belt of Hill Giant Strength",
+					" 2250 gp - Boots of Levitation",
+					" 2500 gp - Boots of Speed",
+					" 2500 gp - Bracers of Defense",
+					" 4500 gp - Cape of the Mountebank",
+					" 7000 gp - Cloak of Displacement",
+					" 6000 gp - Cloak of the Bat (1)",
+					" 3000 gp - Gauntlets of Flaming Fury",
+					" 2500 gp - Headband of Intellect",
+					" 3500 gp - Knave's Eye Patch",
+					" 7500 gp - Mantle of Spell Resistance",
+					" 4000 gp - Ring of Animal Influence",
+					" 4500 gp - Ring of Evasion",
+					" 1500 gp - Ring of Feather Falling",
+					" 5000 gp - Ring of Free Action",
+					" 3500 gp - Ring of Protection",
+					" 3000 gp - Ring of Resistance",
+					" 5500 gp - Ring of Spell Storing",
+					" 2500 gp - Ring of Temporal Salvation",
+					" 4500 gp - Ring of the Ram",
+					" 4500 gp - Ring of X-Ray Vision",
+					" 7000 gp - Robe of Eyes",
+					" 2500 gp - Scaled Ornament, Stirring (2)",
+					" 6500 gp - Wings of Flying",
+					"**Can be upgraded from Cloak of Elvenkind for 3500 gp less (1)**",
+					"**Requires Slumbering variant. (2)**"
+				],
+				"Summoning Items": [
+					" 4500 gp - Bowl of Commanding Water Elementals",
+					" 4500 gp - Brazier of Commanding Fire Elementals",
+					" 4500 gp - Censor of Controlling Air Elementals",
+					" 1000 gp - Feather of Diatryma Summoning",
+					" 4500 gp - Figurine of Wondrous Power, Bronze Griffon",
+					" 3000 gp - Figurine of Wondrous Power, Ebony Fly",
+					" 3000 gp - Figurine of Wondrous Power, Golden Lion",
+					" 4500 gp - Figurine of Wondrous Power, Ivory Goats (terror)",
+					"  500 gp - Figurine of Wondrous Power, Ivory Goats (travail)",
+					" 1250 gp - Figurine of Wondrous Power, Ivory Goats (traveling)",
+					" 4500 gp - Figurine of Wondrous Power, Marble Elephant",
+					" 3000 gp - Figurine of Wondrous Power, Onyx Dog",
+					" 4500 gp - Figurine of Wondrous Power, Serpantine Owl",
+					"  600 gp - Figurine of Wondrous Power, Silver Raven",
+					" 4500 gp - Stone of Controlling Earth Elementals"
+				],
+				"Odds and Ends": [
+					" 3500 gp - Bag of Holding (1)",
+					"10000 gp - Broom of Flying",
+					" 3000 gp - Cauldron of Plenty",
+					" 3125 gp - Dimensional Shackles",
+					" 2350 gp - Dragon Vessel, Stirring (2)",
+					"10000 gp - Folding Boat",
+					" 3500 gp - Gem of Seeing",
+					" 3125 gp - Horseshoes of Speed",
+					" 3125 gp - Iron Bands of Bilarro",
+					" 5000 gp - Portable Hole",
+					" 3125 gp - Rope of Entanglement",
+					" 2250 gp - Stonespeaker's Crystal",
+					"**Can be upgraded from Handy Haversack for 1000gp less. (1)**",
+					"**Requires Slumbering variant. (2)**"
+				]
+			},
+			"4": {
+				"Armor": [
+					" 8000 gp - Armor +3 (1)",
+					" 8000 gp - Shield +3 (1)"
+				],
+				"Foci": [
+					" 9600 gp - All Purpose Tool +3 (1)",
+					" 9600 gp - Amulet of the Devout +3 (1)",
+					" 9600 gp - Arcane Grimoire +3 (1)",
+					" 9600 gp - Bloodwell Vial +3 (1)",
+					" 9600 gp - Moon Sickle +3 (1)",
+					" 9600 gp - Rhythm Maker's Drum +3 (1)",
+					" 9600 gp - Rod of the Pact Keeper +3 (1)",
+					" 8000 gp - Wand of the War Mage +3 (1)",
+					"**Requires +2 variant. (1)**"
+				],
+				"Weapons": [
+					" 8000 gp - Weapon +3 (1)",
+					"**Requires +2 variant. (1)**"
+				]
+			}
+		}
+	},
+	"890687576569184377": {
+		"Tier": {
+			"0": {
+				"Drinks": [
+					" 8 cp - Coffee",
+					" 8 sp - Hot Cocoa",
+					" 3 sp - Milk",
+					" 3 sp - Tea, any flavor",
+					"__Juice__",
+					" 2 cp - Apple Juice",
+					" 4 cp - Blueberry Juice",
+					" 3 cp - Grape Juice",
+					" 2 cp - Orange Juice"
+				],
+				"Sweets": [
+					" 5 cp - Boiled Hard Sweets",
+					" 3 sp - Cinnamon Bun",
+					" 3 sp - Danish",
+					" 4 sp - Fruit Tart",
+					" 2 sp - Muffin, any type",
+					" 5 sp - Pain au Chocolat",
+					" 4 sp - Plate of Small Cookies",
+					" 6 sp - Scones with Toppings and Spreads",
+					" 1 cp - Taffy Treat",
+					"__Available Cookies__",
+					"Caramel Cuts",
+					"Crusts",
+					"Dragonchess Squares",
+					"Dreams",
+					"Honeycomb Brittle",
+					"Raspberry Caves"
+				],
+				"Cakes and Pies": [
+					" 5 sp - Single Cake Piece",
+					"20 sp - 6-Piece Cake",
+					"30 sp - 8-Piece Cake",
+					"40 sp - 12-Piece Cake",
+					" 4 sp - Single Pie Slice",
+					" 2 gp - Full Pie",
+					"__Cakes Options__",
+					"Chocolate",
+					"Princess",
+					"Strawberry-Meringue",
+					" __Pie Options__",
+					"Apple",
+					"Blueberry",
+					"Rhubarb Cobbler"
+				],
+				"Warm Food": [
+					"13 cp - Sandwich",
+					" 4 sp - Soup",
+					"**__Sandwich Choices__**",
+					"(Pick and mix as you like!)",
+					"__Bread__",
+					"Flatbread",
+					"Garlic Bread",
+					"Hard rye",
+					"Rye",
+					"Sourdough",
+					"Wheat",
+					"__Cheeses__",
+					"Brie",
+					"Cheddar",
+					"Swiss",
+					"__Protein__",
+					"Beef",
+					"Chicken",
+					"Fried Egg",
+					"Ham",
+					"Rabbit",
+					"__Vegetables__",
+					"Lettuce",
+					"Mushrooms (garlic fried)",
+					"Onion (sliced)",
+					"Tomato",
+					"**__Soup Options__**",
+					"(served with rye chips)",
+					"Blueberry",
+					"Bread Bowl Stew",
+					"Chicken",
+					"Hot beet",
+					"Onion",
+					"Rose hip",
+					"Tomato"
+				]
+			}
+		}
+	},
+	"899351157812633611": {
+		"Tier": {
+			"0": {
+				"Clothing": [
+					"*Available for animal friends of all sizes upon request!*",
+					"   1 gp - Blouse",
+					"   5 sp - Cloak, wool",
+					"   5 gp - Costume Clothes",
+					"   7 gp - Gown, cloth",
+					"  15 gp - Gown, silk",
+					"  10 gp - Kimono",
+					"   5 gp - Poncho, wool",
+					"   3 gp - Robes, cloth/wool",
+					"  10 gp - Robes, silk",
+					"   2 sp - Sash, cloth",
+					"  10 gp - Sash, silk",
+					"  15 sp - Shoes, dancing",
+					"  45 gp - Shoes, elven",
+					"  35 gp - Slippers, silk",
+					"   1 gp - Slippers, wool",
+					"   8 sp - Stockings",
+					"   1 gp - Tunic/Tunica"
+				],
+				"Accessories": [
+					"*Available for animal friends of all sizes upon request!*",
+					"   1 gp - Bow Tie",
+					"   2 sp - Fan, paper",
+					"   1 gp - Fan, silk",
+					"   1 gp - Fluffy Fluff Scarf",
+					"   3 gp - Gloves or Mittens",
+					"   2 gp - Handkerchief",
+					"   1 gp - Hat, fancy",
+					"   5 gp - Knitten Kitten Mittens",
+					"   5 gp - Mask, wooden",
+					"   5 gp - Parasol/Umbrella",
+					"   1 gp - Wig"
+				],
+				"Jewelry": [
+					"*Available for animal friends of all sizes upon request!*",
+					"__Amulets__",
+					"  15 sp - Wood, Iron, Pewter, or Steel",
+					"  25 gp - Silver",
+					"  40 gp - Gold",
+					"  75 gp - Platinum",
+					"__Bracelet__",
+					"  25 sp - Wood, Iron, Pewter, or Steel",
+					"  40 gp - Silver",
+					"  65 gp - Gold",
+					" 125 gp - Platinum",
+					"__Brooch__",
+					"  15 sp - Wood, Iron, Pewter, or Steel",
+					"  25 gp - Silver",
+					"  40 gp - Gold",
+					"  75 gp - Platinum",
+					"__Crown__",
+					"   5 gp - Wood, Iron, Pewter, or Steel",
+					"  75 gp - Silver",
+					" 125 gp - Gold",
+					" 250 gp - Platinum",
+					"__Earrings__",
+					"  35 sp - Wood, Iron, Pewter, or Steel",
+					"  55 gp - Silver",
+					"  90 gp - Gold",
+					" 175 gp - Platinum",
+					"__Locket__",
+					"  25 sp - Wood, Iron, Pewter, or Steel",
+					"  40 gp - Silver",
+					"  65 gp - Gold",
+					" 125 gp - Platinum",
+					"__Ring__",
+					"   1 gp - Wood, Iron, Pewter, or Steel",
+					"  15 gp - Silver",
+					"  25 gp - Gold",
+					"  50 gp - Platinum",
+					"**Pet clothing and accessory prices multiplied by 4 per size category larger than small.**"
+				],
+				"Services": [
+					"  10 gp - Embroidery",
+					"  10 gp - Engraving",
+					"  10 gp - Etching",
+					"   5 gp - Gift Wrapping"
+				],
+				"Potions": [
+					"  50 gp - Antitoxin (vial)",
+					" 525 gp - Elixir of Health",
+					" 125 gp - Keoghtom's Ointment, single dose (max 5)",
+					"  50 gp - Potion of Healing",
+					" 250 gp - Potion of Greater Healing",
+					" 750 gp - Potion of Superior Healing",
+					"1250 gp - Potion of Supreme Healing"
+				],
+				"Exploration Aids": [
+					"  85 gp - Bottled Breath",
+					" 250 gp - Oil of Slipperiness",
+					" 250 gp - Potion of Advantage",
+					" 175 gp - Potion of Animal Friendship",
+					" 625 gp - Potion of Aqueous Form",
+					" 625 gp - Potion of Clairvoyance",
+					"  50 gp - Potion of Climbing",
+					"  50 gp - Potion of Comprehension",
+					" 375 gp - Potion of Diminution",
+					" 625 gp - Potion of Gaseous Form",
+					" 250 gp - Potion of Growth",
+					" 625 gp - Potion of Heroism",
+					" 250 gp - Potion of Resistance",
+					"  50 gp - Potion of Watchful Rest",
+					"  85 gp - Potion of Water Breathing"
+				],
+				"Wish Scrolls": [
+					"  50 gp - Cantrip",
+					" 100 gp - 1st level",
+					" 200 gp - 2nd level",
+					" 300 gp - 3rd level"
+				],
+				"Wondrous Items": [
+					"  45 gp - Boots of False Tracks",
+					"  85 gp - Breathing Bubble",
+					"  50 gp - Candle of the Deep",
+					"  45 gp - Cleansing Stone",
+					"  30 gp - Cloak of Billowing",
+					"  30 gp - Cloak of Many Fashions",
+					" 125 gp - Clockwork Amulet",
+					"  45 gp - Clothes of Mending",
+					"  45 gp - Coin of Delving",
+					" 250 gp - Cuddly Strixhaven Mascot",
+					"  30 gp - Dread Helm",
+					" 600 gp - Driftglobe",
+					" 175 gp - Dust of Deliciousness",
+					" 275 gp - Dust of Disappearance",
+					" 175 gp - Dust of Dryness",
+					" 650 gp - Emerald Pen",
+					"  65 gp - Enduring Spellbook",
+					"  45 gp - Everbright Lantern",
+					"  30 gp - Glamerweave, Common",
+					"  60 gp - Hat of Vermin",
+					"  35 gp - Hat of Wizardry",
+					" 625 gp - Helm of Comprehending Languages",
+					"  30 gp - Heward's Handy Spice Pouch",
+					"  85 gp - Horn of Silent Alarm",
+					"  65 gp - Instrument of Illusions",
+					"  65 gp - Instrument of Scribing",
+					"  45 gp - Lantern of Tracking",
+					"  45 gp - Moodmark Paint",
+					"  25 gp - Mystery Key",
+					"  45 gp - Orb of Direction",
+					"  25 gp - Paper Bird",
+					"  45 gp - Pipe of Smoke Monsters",
+					" 275 gp - Pixie Dust (no pixies harmed!)",
+					" 100 gp - Pot of Awakening",
+					" 600 gp - Prismari Primer",
+					" 600 gp - Quandrix Primer",
+					"  45 gp - Rope of Mending",
+					"  65 gp - Shiftweave",
+					" 600 gp - Silverquil Primer",
+					"  40 gp - Smoldering Armor",
+					"  50 gp - Staff of Adornment",
+					"  45 gp - Staff of Birdcalls",
+					"  60 gp - Staff of Flowers",
+					"  50 gp - Strixhaven Pennant",
+					"  10 gp - Talking Doll",
+					"  85 gp - Moon-touched Weapon",
+					"  60 gp - Wand of Conducting",
+					"  60 gp - Wand of Pyrotechnics",
+					"  30 gp - Wand of Scowls",
+					"  30 gp - Wand of Smiles",
+					" 600 gp - Witherbloom Primer"
+				],
+				"Crafts": [
+					"   1 gp - Acorn People",
+					" 500 gp - tiny cedar acorn village",
+					"*We do custom commissions upon request.*"
+				],
+				"Plants": [
+					"   1 sp - Bouquet, Simple",
+					"   1 gp - Bouquet, Extravagant",
+					"   1 sp - Potted Plant, Simple",
+					"   1 gp - Potted Plant, Extravagant",
+					"   1 cp - Single Flower",
+					"   1 gp - Flower Arrangement",
+					"  25 gp - Wedding/Party Flower Arrangement"
+				],
+				"Art Supplies!": [
+					"   1 gp - Case, Map or Scroll",
+					"   2 gp - Paint, gallon",
+					"   2 sp - Paint, small pot",
+					"   1 gp - Black Ink (2oz)",
+					"  25 sp - Ink, assorted colors (2oz)",
+					"   1 cp - Chalk",
+					"   4 sp - Sealing Wax",
+					"  50 gp - Small Spellbook",
+					"   1 sp - Papyrus, per sheet",
+					"   5 sp - Parchment, per sheet",
+					"   2 sp - Paper, per sheet",
+					"   1 gp - Vellum, per sheet",
+					"   5 cp - Quill",
+					"   3 sp - Metal, fine tip pen",
+					"   2 sp - Metal, broad tip pen",
+					"   1 sp - Wooden, fine tip pen",
+					"   15 cp - Wooden, broad tip pen",
+					"   10 gp - Book Binding"
+				],
+				"Musical Instruments": [
+					"  30 gp - Bagpipes",
+					"   6 gp - Drum",
+					"  25 gp - Dulcimer",
+					"   2 gp - Flute",
+					"  35 gp - Lute",
+					"  30 gp - Lyre",
+					"   3 gp - Horn",
+					"  12 gp - Pan flute",
+					"  30 gp - Viol"
+				],
+				"Starter Kits!": [
+					"  10 gp - Calligrapher's supplies",
+					"   8 gp - Carpenter's tools",
+					"  15 gp - Cartographer's tools",
+					"   5 gp - Cobbler's tools",
+					"   1 gp - Cook's utensils",
+					"  30 gp - Glassblower's tools",
+					"   5 gp - Healer's Kit",
+					"   5 gp - Herbalism Kit",
+					"  25 gp - Jeweler's tools",
+					"   5 gp - Leatherworker's tools",
+					"  10 gp - Mason's tools",
+					"  10 gp - Painter's supplies",
+					"  10 gp - Potter's tools",
+					"  20 gp - Smith's tools",
+					"  50 gp - Tinker's tools",
+					"   1 gp - Weaver's tools",
+					"   1 gp - Woodcarver's tools"
+				],
+				"Miscellaneous Neat Things!": [
+					"   4 sp - Basket",
+					"   1 gp - Bell",
+					"   5 sp - Blanket",
+					"   2 gp - Bottle, Glass",
+					"   1 cp - Candle",
+					"   5 gp - Chest",
+					"  25 gp - Component Pouch",
+					"   2 cp - Flask or Tankard",
+					"  25 gp - Hourglass",
+					"   5 gp - Kite",
+					"   5 sp - Lamp",
+					"  10 gp - Lantern, Bullseye",
+					"   5 gp - Lantern, Hooded",
+					"   5 gp - Mirror, Steel",
+					"   1 sp - Oil (flask)",
+					"   5 gp - Perfume (vial)",
+					"   3 gp - Pillow, bed",
+					"  10 gp - Pillow, body",
+					"   1 gp - Pillow, throw",
+					"   5 sp - Pouch",
+					"   5 cp - Signal Whistle",
+					"   2 cp - Soap",
+					"  10 gp - Stuffed Doll, Large",
+					"   1 gp - Stuffed Doll, Medium",
+					"   1 sp - Stuffed Doll, Small",
+					"   1 gp - Vial",
+					"   2 sp - Waterskin",
+					"   5 gp - Wind Chime",
+					"   1 gp - Wonky Gift Box"
+				],
+				"Cool Crystals!": [
+					"   1 sp - Neat Rock",
+					"  10 gp - Azurite",
+					"  10 gp - Banded Agate",
+					"  10 gp - Blue Quartz",
+					"  10 gp - Crystal",
+					"  10 gp - Eye Agate",
+					"  10 gp - Geode",
+					"  10 gp - Gold Dust",
+					"  10 gp - Hematite",
+					"  10 gp - Lapis lazuli",
+					"  10 gp - Malachite",
+					"  10 gp - Moss Agate",
+					"  10 gp - Obsidian",
+					"  10 gp - Rhodochrosite",
+					"  10 gp - Tiger Eye",
+					"  10 gp - Turquoise",
+					"  50 gp - Bloodstone",
+					"  50 gp - Carnelian",
+					"  50 gp - Chalcedony",
+					"  50 gp - Chrysoprase",
+					"  50 gp - Citrine",
+					"  50 gp - Jasper",
+					"  50 gp - Moonstone",
+					"  50 gp - Onyx",
+					"  50 gp - Quartz",
+					"  50 gp - Sardonyx",
+					"  50 gp - Smokey Quartz",
+					"  50 gp - Star Rose Quartz",
+					"  50 gp - Zircon",
+					" 500 gp - Alexandrite",
+					" 500 gp - Amber",
+					" 500 gp - Amethyst",
+					" 500 gp - Aquamarine",
+					" 500 gp - Black Pearl",
+					" 500 gp - Blue Spinel",
+					" 500 gp - Chrysoberyl",
+					" 500 gp - Garnet",
+					" 500 gp - Jade",
+					" 500 gp - Jet",
+					" 500 gp - Pearl",
+					" 500 gp - Peridot",
+					" 500 gp - Topaz",
+					" 500 gp - Tourmaline",
+					"1000 gp - Black Opal",
+					"1000 gp - Blue Opal",
+					"1000 gp - Blue Sapphire",
+					"1000 gp - Emerald",
+					"1000 gp - Fire Opal",
+					"1000 gp - Opal",
+					"1000 gp - Star Ruby",
+					"1000 gp - Star Sapphire",
+					"1000 gp - Yellow Sapphire",
+					"5000 gp - Black Sapphire",
+					"5000 gp - Diamond",
+					"5000 gp - Emerald",
+					"5000 gp - Jacinth",
+					"5000 gp - Ruby"
+				]
+			},
+			"2": {
+				"Wish Scrolls": [
+					" 500 gp - 4th level",
+					" 800 gp - 5th level"
+				],
+				"Wondrous Items": [
+					"2000 gp - Bag of Tricks",
+					"3000 gp - Boots of Elvenkind",
+					" 475 gp - Boots of Striding and Springing",
+					"2000 gp - Boots of the Winterlands",
+					" 650 gp - Bracers of Archery",
+					" 475 gp - Brooch of Shielding",
+					" 950 gp - Cap of Water Breathing",
+					" 500 gp - Chime of Opening",
+					"3500 gp - Cloak of Elvenkind",
+					"1500 gp - Cloak of Protection",
+					"5000 gp - Cloak of the Manta Ray",
+					" 950 gp - Decanter of Endless Water",
+					" 750 gp - Deck of Illusions",
+					" 450 gp - Efficient Quiver",
+					"1000 gp - Eyes of the Eagle",
+					" 500 gp - Gem of Brightness",
+					"3000 gp - Glamoured Studded Leather (1)",
+					" 475 gp - Gloves of Swimming and Climbing",
+					" 950 gp - Goggles of Night",
+					" 500 gp - Guardian Emblem",
+					"1000 gp - Handy Haversack",
+					"3500 gp - Hat of Disguise",
+					"1250 gp - Immovable Rod",
+					" 650 gp - Lantern of Revealing",
+					"1500 gp - Luckstone",
+					" 500 gp - Nature's Mantle",
+					" 475 gp - Necklace of Adaptation",
+					" 600 gp - Pearl of Power",
+					" 950 gp - Periapt of Health",
+					" 700 gp - Periapt of Wound Closure",
+					"2500 gp - Pipes of Haunting",
+					" 500 gp - Pipes of the Sewers",
+					"1200 gp - Ring of Jumping",
+					"1600 gp - Ring of Swimming",
+					"1250 gp - Ring of Water Walking",
+					" 350 gp - Robe of Useful Items",
+					" 950 gp - Rope of Climbing",
+					" 650 gp - Saddle of the Cavalier",
+					" 750 gp - Slippers of Spider Climbing",
+					" 700 gp - Spies' Murmur",
+					" 200 gp - Staff of the Adder",
+					" 200 gp - Staff of the Python",
+					" 600 gp - Wand of Entangle",
+					" 550 gp - Wand of Magic Detection",
+					" 750 gp - Wand of Secrets",
+					"1000 gp - Wand of Web",
+					" 875 gp - Wind Fan",
+					"3500 gp - Winged Boots"
+				]
+			}
+		}
+	},
+	"926987155929194578": {
+		"Tier": {
+			"0": {
+				"Baked Goodness!": [
+					"1 gp - Apple Pie",
+					"5 sp - Boiled Hard Sweets",
+					"5 sp - Fruit Tart",
+					"5 sp - Honeycomb Brittle",
+					"5 sp - Kitty Claw (a bear claw in the shape of a kitty paw)"
+				],
+				"Delicious Drinks": [
+					"5 sp - Hot Cocoa",
+					"3 sp - Coffee",
+					"3 sp - Juice",
+					"5 sp - Smoothie",
+					"3 sp - Tea"
+				],
+				"Evening Options": [
+					"*You must be of adult age to purchase these adult drinks.*",
+					"1 gp - Bee Sting",
+					"1 gp - Fruit Cocktail*",
+					"6 sp - Fruit Cider, glass",
+					"4 gp - Elverquisst, glass",
+					"3 gp - Evermead, glass",
+					"5 gp - Feywine, glass",
+					"1 gp - Martini (dry or sweet)",
+					"1 gp - Plum Wine, glass",
+					"5 gp - Sake, bottle (warm or cold)",
+					"*Fruit cocktails can be made with all in-house juices!**"
+				],
+				"Fantastic Foods": [
+					"*Vegan options available for all foods!*",
+					"5 sp - Dumplings (veggie, chicken, pork, or beef)",
+					"1 gp - Ramen (gyuniku, miso, shoyu, tonkotsu, torishio)*",
+					"Noodles in a delicious broth with your choice of vegetables, mushrooms, or meat within.",
+					"1 gp - Sushi",
+					"Sticky rice rolled with rice paper or seaweed and your choice of vegetables, fruit, or fish bundled neatly within.",
+					"1 gp - Stir Fry (hoisin, orange, peanut sauce, soy, szechuan, teriyaki)",
+					"Fried noodles or rice with your choice of vegetables and meat.",
+					"*Our standard broth is vegetarian! Please ask if you'd like a meat based broth.**",
+					"__Want it to go? Get a bento box, or bring your own!__",
+					"1 gp - Decorative Bento Box"
+				],
+				"Options for Juice, Coffee, and Tea": [
+					"__K&K Caféy offers the following variants for coffee:__",
+					"Affogato",
+					"Black",
+					"Cafe au Lait",
+					"Cappuccino",
+					"Iced",
+					"Espresso",
+					"Latte",
+					"Mocha",
+					"__K&K Caféy offers the following ingredients for juices and smoothies:__",
+					"Apple",
+					"Banana",
+					"Blueberry",
+					"Carrot",
+					"Cherry",
+					"Cranberry",
+					"Grape",
+					"Grapefruit",
+					"Kale",
+					"Lemon",
+					"Lime",
+					"Lychee Nut",
+					"Mango",
+					"Pineapple",
+					"Pomegranate",
+					"Raspberry",
+					"Strawberry",
+					"Tomato",
+					"__K&K Caféy offers the following flavors for tea:__",
+					"Black",
+					"Chai",
+					"Chamomille",
+					"Dogrose",
+					"Earl Gray",
+					"Ginger",
+					"Green",
+					"Hibiscus",
+					"Lemongrass",
+					"Linden",
+					"Jasmine",
+					"Masala",
+					"Matcha",
+					"Mint",
+					"Oolong",
+					"Puer",
+					"Rooibos",
+					"Winter Fruit",
+					"White",
+					"*Have a favorite tea? We're happy to take suggestions!*"
+				]
+			}
+		}
+	},
+	"900170721819508796": {
+		"Tier": {
+			"0": {
+				"Tickets": [
+					"2 cp - Daily Entry",
+					"1 sp - Weekly Ticket",
+					"5 sp - Monthly Ticket",
+					"5 gp Yearly Ticket"
+				],
+				"Popcorn": [
+					" Popcorns:",
+					"2 cp - Small",
+					"3 cp - Medium",
+					"5 cp - Large",
+					"__Upcharges:__",
+					"1 cp - Buttered",
+					"2 cp - Kettle style",
+					"2 cp - Cheese",
+					"5 cp - Caramel"
+				],
+				"Candied Fruit/Herbs (in a small cup)": [
+					"5 cp - Strawberries",
+					"5 cp - Peaches",
+					"7 cp - Cherries",
+					"1 sp - Gingers",
+					"2 sp - Orange Peels"
+				],
+				"Sweets": [
+					"1 sp - Sweet Roll",
+					"1 sp - Cheese Danish",
+					"2 sp - Fruit Tart",
+					"2 gp - Chocolate Candy"
+				],
+				"Food": [
+					"6 cp - Sandwiches",
+					"2 sp - Warm Soup",
+					"2 cp - Honeyed Bugs (Always Fresh!)"
+				],
+				"Drinks": [
+					"5 cp - Coffee",
+					"3 sp - Tea",
+					"5 sp - Milk",
+					"__Juices__",
+					"1 cp - Apple",
+					"2 cp - Grape",
+					"1 cp - Orange"
+				],
+				"Special Treats": [
+					"Free Ice Cream (any flavor) on the weekend!"
+				]
+			}
+		}
+	},
+	"929840621718478879": {
+		"Tier": {
+			"0": {
+				"Flowers, bouquets, plants, and trees!": [
+					"  1 gp - simple flower bouquet",
+					" 25 sp - complex flower bouquet",
+					"  5 cp - single flower",
+					"  1 gp - carnivorous plant",
+					"  1 sp - plant, small",
+					"  5 sp - plant, medium",
+					"  1 gp - plant, large",
+					"  5 sp - tree sapling",
+					" 10 gp - tree, small (house plant tree)"
+				],
+				"Seeds and Stuff": [
+					"  4 sp - veggie seeds",
+					" 45 cp - fruit seeds",
+					"  4 sp - herb seeds",
+					"  3 sp - general seeds",
+					"  3 sp - watering can, 1 gallon",
+					"  2 sp - healthy soil, 1 lb",
+					"  1 gp - healthy soil, 10 lb",
+					"  7 sp - mulch, 1 lb",
+					" 15 sp - fertilizer, 1 lb",
+					"  9 gp - bag of compost"
+				],
+				"Pots and Planters": [
+					"  1 sp - glass vase, small",
+					"  5 sp - glass vase, medium",
+					"  5 cp - plain pot, small",
+					"  5 sp - plain pot, medium",
+					"  2 gp - plain pot, large",
+					"  5 sp - decorated pot, small",
+					"  1 gp - decorated pot medium",
+					" 10 gp - decorated pot, large",
+					" 28 sp - hanging pot, plain",
+					"  5 gp - hanging pot, decorated",
+					" 15 gp - wooden planter, medium",
+					"205 sp - wooden planter, large"
+				],
+				"Other bits and bobs!": [
+					"  5 sp - bird feeder",
+					"  1 sp - bird seeds for the bird feeder, 1 lb",
+					"  5 gp - delivery, small",
+					"  10 gp - delivery, medium",
+					"  20 gp - delivery, large"
+				],
+				"Pets": [
+					" 30 gp - Parrot",
+					"  5 gp - Snake",
+					" 12 gp - Gecko",
+					"  2 sp - tropical fish, small",
+					"  1 gp - tropical fish, medium",
+					" 18 gp - Hawk",
+					"  2 cp - toad"
+				],
+				"Pet Housing and Accessories!": [
+					"  2 gp - cage, tiny",
+					" 15 gp - cage, medium or small",
+					" 30 gp - cage, large",
+					" 80 gp - aquarium tank or reptile tank",
+					"  4 sp - Drift wood, small",
+					"  8 sp - Drift wood, medium",
+					"  7 gp - decorative rocks or natural rocks, bag of 10, 3-7 inches each or 7.62 cm to 17.78 cm each.",
+					"  2 gp - bag of sand, gravel or soil, 1 lb",
+					"  5 cp - pet toy"
+				],
+				"Aquatic Plants": [
+					"  5 cp - moss ball",
+					"  2 sp - aquatic plant, small",
+					"  5 sp - aquatic plant, medium",
+					"  3 cp - moss"
+				],
+				"Food": [
+					"  5 gp - Berries, common (blueberries, chokeberries, cloudberries, elderberries, gooseberries, grapes, mulberries, raspberries, strawberries)",
+					" 10 gp - Berries, premium (blackberries*, cranberries*, huckleberries*, salmonberries*)",
+					" 25 sp - Fruit, common (apples, apricots, cherries, peaches, pears, plums)",
+					"  5 gp - Fruit, premium (dates*, figs*, melon*, orange*, pineapple*, pomegranate*)",
+					"  5 cp - animal food (fish food, bird food, carnivore food)"
+				]
+			}
+		}
+	},
+	"984593138943418458": {
+		"Tier": {
+			"0": {
+				"Forged Cooking Utensils": [
+					" 10 gp - Iron Cookware",
+					" 15 gp - Stainless Steel Cookware",
+					" 30 gp - Blue Steel Cookware",
+					"50+ gp - Adamantine Cookware"
+				],
+				"Wood-Carved Sculpture/Furniture": [
+					" 10 gp - 12-inch statue",
+					" 20 gp - 24-inch statue",
+					" 30 gp - 36-inch statue",
+					" 40 gp - 48-inch statue",
+					"50+ gp - 60+ inch statue"
+				],
+				"Clockwork Devices": [
+					" 15 gp - Basic Grade Device (Ex. Compass)",
+					" 30 gp - Advance Grade Device (Ex. Longcase Clock)",
+					"50+ gp - Master Grade Device (Ex. Leavers Lace Machine)"
+				]
+			}
+		}
+	},
+	"988493604693630976": {
+		"Tier": {
+			"0": {
+				"Instruments": [
+					"21 gp - Bagpipes",
+					" 6 gp - Drum",
+					"15 gp - Dulcimer",
+					" 3 gp - Flute",
+					"28 gp - Lute",
+					"21 gp - Lyre",
+					" 3 gp - Horn",
+					" 7 gp - Pan flute",
+					"21 gp - Viol",
+					"21 gp - Fiddle(Violin)",
+					"21 gp - Cittern",
+					"95 gp - Instrument of Illusions Enchantment (Instrument Sold Seperately)"
+				],
+				"Instrument Lessons": [
+					" 5 gp - per Lesson for 24 Lessons on the Bagpipes",
+					" 5 gp - per Lesson for 24 Lessons on Drum",
+					" 5 gp - per Lesson for 24 Lessons on the Dulcimer",
+					" 5 gp - per Lesson for 24 Lessons on the Flute",
+					" 5 gp - per Lesson for 24 Lessons on the Lute",
+					" 5 gp - per Lesson for 24 Lessons on the Lyre",
+					" 5 gp - per Lesson for 24 Lessons on the Horn",
+					" 5 gp - per Lesson for 24 Lessons on the Pan flute",
+					" 5 gp - per Lesson for 24 Lessons on the Viol",
+					" 5 gp - per Lesson for 24 Lessons on the Fiddle(Violin)",
+					" 5 gp - per Lesson for 24 Lessons on the Cittern",
+					"13 gp - per Lesson for 24 Lessons on the Instrument of Illusions"
+				],
+				"Instrument Rentals": [
+					"__Regular Instruments__",
+					" 2 sp - per hour",
+					" 3 gp - per day",
+					"12 gp - per day",
+					"__Instrument of Illusions__",
+					" 2 gp - per hour",
+					" 7 gp - per day",
+					"17 gp - per day"
+				],
+				"Mixed Lesson Plans": [
+					"36 gp - per Lesson for 75 Lessons on the Dance and Singing",
+					"10 gp - per Lesson for 63 Lessons on Singing and Acting",
+					"22 gp - per Lesson for 63 Lessons on Acting and Puppetry",
+					"32 gp - per Lesson for 63 Lessons on Instrument and Dance",
+					"14 gp - per Lesson for 63 Lessons on Instrument and Singing",
+					"40 gp - per Lesson for 75 Lessons on Instrument of Illusions and Dance",
+					"22 gp - per Lesson for 75 Lessons on Instrument of Illusions and Singing",
+					"55 gp - per Lesson for 63 Lessons on the Acting and Magic",
+					"54 gp - per Lesson for 63 Lessons on the Singing and Magic",
+					"62 gp - per Lesson for 63 Lessons on the Acting and Magic",
+					"61 gp - per Lesson for 63 Lessons on the Singing and Magic",
+					"60 gp - per Lesson for 63 Lessons on the Gymnastics and Magic",
+					"53 gp - per Lesson for 63 Lessons on the Acrobatics and Magic",
+					"67 gp - per Lesson for 63 Lessons on the Gymnastics and Magic",
+					"60 gp - per Lesson for 63 Lessons on the Acrobatics and Magic",
+					"39 gp - per Lesson for 75 Lessons on the Instrument of Illusions and Theatre Arts",
+					"58 gp - per Lesson for 75 Lessons on the Instrument of Illusions and Magic",
+					"65 gp - per Lesson for 75 Lessons on the Instrument of Illusions and Magic"
+				]
+			}
+		}
+	},
+	"1000500047525449788": {
+		"Tier": {
+			"0": {
+				"Livestock": [
+					" 1gp - Chickens",
+					" 5gp - Goats",
+					" 5gp - Pigs",
+					" 5gp - Sheep",
+					"15gp - Oxen",
+					"10gp - Dairy Cows"
+				],
+				"Produce": [
+					"__Apples__",
+					" 1gp - Winesap (for cider)",
+					" 1gp - Honeycrisp (good raw)",
+					" 3gp - Aged Black (for baking)",
+					"__Berries__",
+					" 1gp - Strawberries",
+					" 1gp - Raspberries",
+					" 3gp - Blackberries"
+				],
+				"Kitchen": [
+					" 3gp - Apple Pies",
+					" 3gp - Berry Pies",
+					" 3gp - Cinnamon-Cider Donuts (doz.)",
+					" 4gp - Pressed Ciders (gal.)",
+					" 1gp - Apple Butter (pt.)",
+					" 2gp - 3-Berry Preserves (pt.)",
+					" 3gp - Pomegranate Jelly (pt.)"
+				],
+				"Dairy Cupboard": [
+					" 3sp - Eggs (doz.)",
+					" 1gp - Milk (quart)",
+					" 1gp - Cream (pint)",
+					" 1gp - Butter (brick)",
+					" 1gp - Cheese (wheel)",
+					" 1gp - Goat Milk (quart)",
+					"10gp - Goat Cheese (wheel)"
+				],
+				"Spit-Roasted Meats": [
+					" 3sp - Pork (lb.)",
+					" 3sp - Beef (lb.)"
+				],
+				"Salted Meats": [
+					"50gp - Pork (barrel, 160lbs.)",
+					"50gp - Beef (barrel, 160lbs.)"
+				],
+				"Smoked Meats": [
+					" 3gp - Ham (10 lbs. bone-in)",
+					" 3gp - Brisket (10 1bs.)",
+					" 5sp - Ham Hocks (pair)",
+					" 5sp - Bacon (lb.)",
+					" 3sp - Burnt Ends (lb.)"
+				]
+			}
+		}
+	}
+}
